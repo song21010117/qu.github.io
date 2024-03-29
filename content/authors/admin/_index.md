@@ -78,7 +78,7 @@ skills:
       - name: Football
         description: ''
         percent: 100
-        icon: soccer Ball
+        icon: soccer ball
         icon_pack: fas
       - name: chess
         description: ''
