@@ -78,7 +78,7 @@ skills:
       - name: Football
         description: ''
         percent: 100
-        icon: goal net
+        icon: trophy
         icon_pack: fas
       - name: chess
         description: ''
