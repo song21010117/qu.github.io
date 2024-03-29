@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 曲英铭
+title: Yingming Qu
 
 # Name pronunciation (optional)
-name_pronunciation: Yingming Qu
+# name_pronunciation: Yingming Qu
 
 # Full name (for SEO)
 first_name: Yingming
@@ -53,18 +53,18 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 90
+        percent: 100
         icon: python
         icon_pack: fab
       - name: Fortran
         description: ''
         percent: 100
-        icon: 🔍
+        icon: fortran
         icon_pack: fas
       - name: Matlab
         description: ''
-        percent: 95
-        icon: Ⓜ️
+        percent: 100
+        icon: M
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -72,18 +72,18 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 80
+        percent: 100
         icon: person-hiking
         icon_pack: fas
       - name: Football
         description: ''
         percent: 100
-        icon: ⚽
+        icon: football
         icon_pack: fas
-      - name: Photography
+      - name: Chinese chess
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 100
+        icon: chinese-chess
         icon_pack: fas
 
 # Social/Academic Networking
