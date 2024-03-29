@@ -59,7 +59,7 @@ skills:
       - name: Fortran
         description: ''
         percent: 100
-        icon: Laptop
+        icon: desktop computer
         icon_pack: fas
       - name: C++
         description: ''
@@ -78,7 +78,7 @@ skills:
       - name: Football
         description: ''
         percent: 100
-        icon: activity
+        icon: soccer Ball
         icon_pack: fas
       - name: chess
         description: ''
