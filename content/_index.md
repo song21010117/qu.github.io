@@ -165,7 +165,7 @@ sections:
         description: ""
         organization: 中国地球物理学会
         organization_url: 
-        title: 科技进步二等奖， 《低品质数据驱动的高精度地震成像关键技术》
+        title: 科技进步二等奖, 《低品质数据驱动的高精度地震成像关键技术》
         url: ""
       - certificate_url: 
         date_end: ""
@@ -239,7 +239,7 @@ sections:
         organization_url: 
         title: 山东省泰山青年学者
         url: ""
-    - certificate_url: 
+      - certificate_url: 
         date_end: ""
         date_start: "2021-09-01"
         description: ""
@@ -247,7 +247,7 @@ sections:
         organization_url: 
         title: 青年人才托举工程项目获得者
         url: ""
-    - certificate_url: 
+      - certificate_url: 
         date_end: ""
         date_start: "2021-12-01"
         description: ""
