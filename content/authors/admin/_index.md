@@ -59,12 +59,12 @@ skills:
       - name: Fortran
         description: ''
         percent: 100
-        icon: java
+        icon: Laptop
         icon_pack: fas
-      - name: Matlab
+      - name: C++
         description: ''
         percent: 100
-        icon: c++
+        icon: copyright
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -78,12 +78,12 @@ skills:
       - name: Football
         description: ''
         percent: 100
-        icon: soccer
+        icon: activity
         icon_pack: fas
       - name: chess
         description: ''
         percent: 100
-        icon: chinese-chess
+        icon: chess Pawn
         icon_pack: fas
 
 # Social/Academic Networking
