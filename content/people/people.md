@@ -29,10 +29,11 @@ table th:first-of-type {
 }
 </style>
 
-|                                                              |                                                              |
-| :----------------------------------------------------------- | :----------------------------------------------------------- |
-| <img align="left" src="people.assets/dingzezheng.jpg" width="80%" /> | **2022-Present, Zezheng Ding: Deep Learning for seismic imaging and inversion**<br />Zezheng Ding graduated from Xi'an Shiyou University with a bachelor’s degree in Geoscience in June 2022. He joined the China University of Petroleum (East China) in September 2022 and started pursuing Ph.D. His current work mainly focused on using the deep learning for seismic AVO inversion, least-squares migration, diffraction/reflection separation and wavefield separation. In his free time, he loves outdoor activities such as climbing and skiing. |
-| <br />                                                       |                                                              |
+
+ |                                                             |                                                              |
+ |:----------------------------------------------------------- | :----------------------------------------------------------- |
+ |<img align="left" src="people.assets/dingzezheng.jpg" width="80%" /> | **2022-Present, Zezheng Ding: Deep Learning for seismic imaging and inversion**<br />Zezheng Ding graduated from Xi'an Shiyou University with a bachelor’s degree in Geoscience in June 2022. He joined the China University of Petroleum (East China) in September 2022 and started pursuing Ph.D. His current work mainly focused on using the deep learning for seismic AVO inversion, least-squares migration, diffraction/reflection separation and wavefield separation. In his free time, he loves outdoor activities such as climbing and skiing. |
+ | <br />                                                    |                                                              |
 
 
 ### Openings
