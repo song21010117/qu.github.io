@@ -56,7 +56,7 @@ projects:
 ---
 
 <div style="text-align: center;">
-  <img src="./Attenuation compensation in anisotropic LSRTM and FWI.assets/image.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="Attenuation compensation in anisotropic LSRTM and FWI.assets/image.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 <br />
 
