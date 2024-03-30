@@ -5,19 +5,16 @@ summary: Based on a preceding operators our QLSRTM-VA method increases the imagi
 authors:
 - Yingming Qu
 - Jianggui Zhu
-date: "2022-11-01"
+
 doi: "10.1190/geo2021-0689.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-11-01"
 
-weight: 100
 
-# Publication name and optional abbreviated publication name.
-publication: Geophysics
-publication_short: Geophysics 
+tags: [Inversion]
 
-tags: [Imaging]
+weight: 90 0
 
 # Display this page in the Featured widget?
 featured: false
@@ -37,7 +34,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
