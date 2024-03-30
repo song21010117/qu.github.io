@@ -1,17 +1,18 @@
 ---
 title: "Attenuation compensation in anisotropic LSRTM and FWI"
-subtitle: " - 2022-11-01"
+subtitle: "- 2022-11-01"
 summary: Based on a preceding operators our QLSRTM-VA method increases the imaging resolution, signal-to-noise ratio, and amplitude preservation in deep regions. Our method is capable of producing better images than viscoacoustic isotropic least-squares reverse time migration (LSRTM) and acoustic anisotropic LSRTM.
 authors:
 - Yingming Qu
 - Jianggui Zhu
+
 
 doi: "10.1190/geo2021-0689.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-11-01"
 
-weight: 100
+weight: 100 .
 
 # Publication name and optional abbreviated publication name.
 publication: Geophysics
@@ -60,5 +61,6 @@ projects:
 <br />
 
 Anisotropy and Q attenuation bring great challenges to seismic wave migration. On migrated images, anisotropy creates structural and positioning errors, and Q attenuation leads to weak amplitudes and misplacement of reflectors. A 2D Q-compensated least-squares reverse time migration with velocity-anisotropy correction (QLSRTM-VA) is proposed through the construction of velocity-anisotropic Q-compensated forward modeling, Q-compensated adjoint, and Q-attenuated demigration operators to simultaneously correct velocity-anisotropy and Q-attenuation in the migration process. The preceding operators are derived using first-order velocity-anisotropic viscoacoustic quasi-differential wave equations with variable densities, which are stable, capable of conveniently dealing with variable density media and are easy to transform between velocity-anisotropic Q-compensation and Q-attenuation versions. As exemplified by two synthetic and field data sets, our QLSRTM-VA method increases the imaging resolution, signal-to-noise ratio, and amplitude preservation in deep regions. Our method is capable of producing better images than viscoacoustic isotropic least-squares reverse time migration (LSRTM) and acoustic anisotropic LSRTM.
+
 
 A detailed introduction can be downloaded and viewed as a pdf, or [click this link.](https://library.seg.org/doi/epub/10.1190/geo2021-0689.1)

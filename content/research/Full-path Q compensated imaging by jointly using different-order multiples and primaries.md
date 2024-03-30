@@ -1,17 +1,18 @@
 ---
-title: "Attenuation compensation in anisotropic LSRTM and FWI"
-subtitle: " - 2020-01-09"
-summary: we compensate for the attenuation during source wavefield forward propagation and receiver backward propagation, and we introduce a regularization operator to automatically eliminate the exponential high-frequency noise during the attenuation compensation process. 
+title: "Full-path Q compensated imaging by jointly using different-order multiples and primaries"
+subtitle: "- 2020-01-09"
+summary: Based on a preceding operators our QLSRTM-VA method increases the imaging resolution, signal-to-noise ratio, and amplitude preservation in deep regions. Our method is capable of producing better images than viscoacoustic isotropic least-squares reverse time migration (LSRTM) and acoustic anisotropic LSRTM.
 authors:
 - Yingming Qu
 - Jinli Li
 
+
 doi: "10.1190/geo2019-0237.1"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-09"
+publishDate: "2020-01-09"
 
-weight: 100
+weight: 100 .
 
 # Publication name and optional abbreviated publication name.
 publication: Geophysics
@@ -55,10 +56,11 @@ projects:
 ---
 
 <div style="text-align: center;">
-  <img src="./Attenuation compensation in anisotropic LSRTM and FWI.assets/image.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Full-path Q compensated imaging by jointly using different-order multiples and primaries.assets/image.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 <br />
 
 Compared to primary arrivals, multiples have longer propagation paths and smaller reflection angles, leading to a wider illumination area in the horizontal direction and higher resolution in the vertical direction. Hence, it is better to make full use of the multiples rather than suppressing them. However, seismic attenuation exists widely in the subsurface medium, especially directly below the deep sea bottom. Therefore, to compensate for the attenuation effect during multiple imaging, we have developed a viscoacoustic reverse time migration (RTM) method of different-order multiples. Following the multiple propagation paths, we compensate for the attenuation during source wavefield forward propagation and receiver backward propagation, and we introduce a regularization operator to automatically eliminate the exponential high-frequency noise during the attenuation compensation process. Taking advantage of the full wavefield information, we jointly use the different-order multiples and primaries when implementing viscoacoustic RTM. In numerical examples, we validate the viscoacoustic RTM of different-order multiples in a three-layer attenuation model and an attenuating Sigsbee2B model. Our results suggest that our method can image the models using different-order multiples separately, which suppresses crosstalk artifacts, balances energy, raises resolution, and improves subsalt images dramatically.
+
 
 A detailed introduction can be downloaded and viewed as a pdf, or [click this link.](https://pubs.geoscienceworld.org/geophysics/article-abstract/85/2/S71/580898/Viscoacoustic-reverse-time-migration-of-joint)
