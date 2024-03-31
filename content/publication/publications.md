@@ -20,9 +20,9 @@ design:
 ### **Journal Papers**
 
 ------
-[1] ****Qu, Y.\****, Zhu, J., 2022, Q-compensated least-squares reverse time migration with velocity-anisotropy correction based on the first-order velocity-pressure equations, ***Geophysics\***, 87(6), S335-S350.
+[1] **Qu, Y.\***, Zhu, J., 2022, Q-compensated least-squares reverse time migration with velocity-anisotropy correction based on the first-order velocity-pressure equations, ***Geophysics\***, 87(6), S335-S350.
 
-[2] ****Qu, Y.\****, Huang, C., Liu C., Li, Z., 2021, Full-path compensated least-squares reverse time migration of joint primaries and different order multiples for deep-marine environment. ***IEEE Transactions on Geoscience and Remote Sensing\***. 59(8), 7109 - 7121.
+[2] **Qu, Y.\***, Huang, C., Liu C., Li, Z., 2021, Full-path compensated least-squares reverse time migration of joint primaries and different order multiples for deep-marine environment. ***IEEE Transactions on Geoscience and Remote Sensing\***. 59(8), 7109 - 7121.
 
 [3] Li, Z., **Qu, Y.\***, 2022, Research progress on seismic imaging technology, ***Petroleum Science\***, 19(1), 128-146.
 
@@ -30,82 +30,82 @@ design:
 
 [5] Li, J.; **Qu, Y.\***; Huang, C., Li, Y., Li, Z., 2023. Ocean bottom dual-sensor Q-compensated elastic least-squares reverse time migration based on viscoacoustic and separated-viscoelastic coupled equations. ***Geophysics\***, 89(3): S155-S173.
 
-[6] ****Qu, Y.\****, Li, J., Li, Y., Li, Z., 2023, Joint acoustic and decoupled-elastic least-squares reverse time migration for simultaneously using water-land dual-detector data. ***IEEE Transactions on Geoscience and Remote Sensing\***.
+[6] **Qu, Y.\***, Li, J., Li, Y., Li, Z., 2023, Joint acoustic and decoupled-elastic least-squares reverse time migration for simultaneously using water-land dual-detector data. ***IEEE Transactions on Geoscience and Remote Sensing\***.
 
-[7] ****Qu, Y.\****, Li, J., 2019, Q-compensated reverse time migration in viscoacoustic media including surface topography. ***Geophysics\***, 84(4), S201-S217.
+[7] **Qu, Y.\***, Li, J., 2019, Q-compensated reverse time migration in viscoacoustic media including surface topography. ***Geophysics\***, 84(4), S201-S217.
 
 [8] Li, J., **Qu, Y.\***, Li, Z., 2022, Viscoacoustic least-squares reverse time migration of different-order free-surface multiples, ***Geophysical Prospecting\***, 71(1): 29-47.
 
-[9] Sun, W., Li, Z., ****Qu, Y.\****, 2022, The 3D conical Radon transform for seismic signal processing. ***Geophysics\***, 87(5), V481-V504.
+[9] Sun, W., Li, Z., **Qu, Y.\***, 2022, The 3D conical Radon transform for seismic signal processing. ***Geophysics\***, 87(5), V481-V504.
 
-[10] ****Qu, Y.\****, Li, Z., Guan, Z., Liu, C., Sun, J., 2022, Q-compensated least-squares reverse time migration of joint primary and prismatic waves for viscoacoustic media including surface topography. ***IEEE Transactions on Geoscience and Remote Sensing\***, 60, 5908314.
+[10] **Qu, Y.\***, Li, Z., Guan, Z., Liu, C., Sun, J., 2022, Q-compensated least-squares reverse time migration of joint primary and prismatic waves for viscoacoustic media including surface topography. ***IEEE Transactions on Geoscience and Remote Sensing\***, 60, 5908314.
 
-[11] ****Qu, Y.\****, Wang Y., Li, Z., Liu C., 2021, Q least-squares reverse time migration based on the first-order viscoacoustic quasidifferential equations. ***Geophysics\***, 86(4), S283–S298.
+[11] **Qu, Y.\***, Wang Y., Li, Z., Liu C., 2021, Q least-squares reverse time migration based on the first-order viscoacoustic quasidifferential equations. ***Geophysics\***, 86(4), S283–S298.
 
-[12] ****Qu, Y.\****, Guan, Z., Li, Z., 2019, Fluid-solid coupled elastic full waveform inversion in the curvilinear coordinates for OBC data. ***Geophysics\***. 85(3): R113-R133.
+[12] **Qu, Y.\***, Guan, Z., Li, Z., 2019, Fluid-solid coupled elastic full waveform inversion in the curvilinear coordinates for OBC data. ***Geophysics\***. 85(3): R113-R133.
 [13] Li, J., Ma, B., **Qu, Y.\***, Zhu, J., Liu, C., 2023, Steeply dipping structural target oriented viscoacoustic prismatic reverse time migration in frequency domain and its application. ***Geophysical Prospecting\***. 72(2): 367-377.
 
-[14] ****Qu, Y.\****, Ren, J., Huang, C., Li, Z., Wang, Y., Liu, C., 2022, 3D Multisource Least-squares Reverse Time Migration in Curvilinear-τ Domain-clean. ***IEEE Transactions on Geoscience and Remote Sensing\***, 60, 5908214.
+[14] **Qu, Y.\***, Ren, J., Huang, C., Li, Z., Wang, Y., Liu, C., 2022, 3D Multisource Least-squares Reverse Time Migration in Curvilinear-τ Domain-clean. ***IEEE Transactions on Geoscience and Remote Sensing\***, 60, 5908214.
 
-[15] ****Qu, Y.\****, Guan, Z., Li, Z., 2020, Viscoacoustic reverse time migration of joint primaries and different-order multiples. ***Geophysics\***, 85(2): S71-S87.
+[15] **Qu, Y.\***, Guan, Z., Li, Z., 2020, Viscoacoustic reverse time migration of joint primaries and different-order multiples. ***Geophysics\***, 85(2): S71-S87.
 
 [16] Li, J., Zhu, J., **Qu, Y.\***, Yang, Z., 2023, Elastic full waveform inversion based on an optimized flux-corrected transport. ***Geophysical Prospecting\***. 72(2), 468 - 483.
 
-[17] ****Qu, Y.\****, Guan, Z., Li, Z., 2019, Topographic elastic least-squares reverse time migration based on vector P- and S-wave equations in the curvilinear coordinates. ***Geophysical Prospecting\***, 67(5), 181-196.
+[17] **Qu, Y.\***, Guan, Z., Li, Z., 2019, Topographic elastic least-squares reverse time migration based on vector P- and S-wave equations in the curvilinear coordinates. ***Geophysical Prospecting\***, 67(5), 181-196.
 
-[18] ****Qu, Y.\****, Huang, J., Li, Z., Li, J., 2017, A hybrid grid method in an auxiliary coordinate system for irregular fluid-solid interface modeling. ***Geophysical Journal International\***, 208(3), 1540-1556.
+[18] **Qu, Y.\***, Huang, J., Li, Z., Li, J., 2017, A hybrid grid method in an auxiliary coordinate system for irregular fluid-solid interface modeling. ***Geophysical Journal International\***, 208(3), 1540-1556.
 
-[19] ****Qu, Y.\****, Li, J., Huang, J., and Li, Z., 2017, Elastic least-squares reverse time migration with velocities and density perturbation. ***Geophysical Journal International\***, 202(2), 1033-1056.
+[19] **Qu, Y.\***, Li, J., Huang, J., and Li, Z., 2017, Elastic least-squares reverse time migration with velocities and density perturbation. ***Geophysical Journal International\***, 202(2), 1033-1056.
 
-[20] ****Qu, Y.\****, Huang, J., Li, Z., Guan, Z., Li, J., 2017, Attenuation compensation in anisotropic least-squares reverse time migration. ***Geophysics\***. 82(6), S411-S423.
+[20] **Qu, Y.\***, Huang, J., Li, Z., Guan, Z., Li, J., 2017, Attenuation compensation in anisotropic least-squares reverse time migration. ***Geophysics\***. 82(6), S411-S423.
 
-[21] ****Qu, Y.\****, Li, Z., Huang, J., Li, J., Guan, Z., 2017, Elastic full waveform inversion for surface topography. ***Geophysics\***, 82(5), R269-R285.
+[21] **Qu, Y.\***, Li, Z., Huang, J., Li, J., Guan, Z., 2017, Elastic full waveform inversion for surface topography. ***Geophysics\***, 82(5), R269-R285.
 
 [22] **曲英铭**, 李金丽, 李振春等.最小二乘逆时偏移中黏弹性和各向异性的校正:以渤海湾地区地震数据为例[J]. ***地球物理学报\***, 2019, 62(06): 2203-2216.
 
 [23] **曲英铭**, 黄建平, 李振春, 李庆洋, 赵金良, 李秀芝, 2015, 分层坐标变换法起伏自由地表弹性波叠前逆时偏移. ***地球物理学报\***, 58(8), 544-560.
 
-[24] Lu J., Wu C., ****Qu, Y.\****, Zhang H., Ma B., 2023, Multiscale Fusion Network With SR-Attention for Seismic Velocity Model Building. ***IEEE Transactions on Geoscience and Remote Sensing\***, 61, 5923011.
+[24] Lu J., Wu C., **Qu, Y.\***, Zhang H., Ma B., 2023, Multiscale Fusion Network With SR-Attention for Seismic Velocity Model Building. ***IEEE Transactions on Geoscience and Remote Sensing\***, 61, 5923011.
 
 [25] Wang, Y., **Qu, Y.\***, 2021, Q-compensated full waveform inversion for velocity and density, Exploration ***Geophysics\***, 53(5), 487-500.
 
 [26] Liu, C., **Qu, Y.\***, Li, Z., Zeng, S., Yang, T., and Zhao, W., 2023, Staining algorithm for least-squares reverse time migration. ***Journal of Applied Geophysics\***, 219: 105243.
 
-[27] ****Qu, Y.\****, Zhou C., Liu C., et al., 2020, P- and S-wave separated elastic reverse time migration for OBC data from fluid-solid coupled media with irregular seabed interfaces. ***Journal of Applied Geophysics\***, 172: 103882.
+[27] **Qu, Y.\***, Zhou C., Liu C., et al., 2020, P- and S-wave separated elastic reverse time migration for OBC data from fluid-solid coupled media with irregular seabed interfaces. ***Journal of Applied Geophysics\***, 172: 103882.
 
-[28] ****Qu, Y.\****, Liu, C., Huang, C., Zhou, C. Sun, J., and Li, Z., 2021, Elastic reverse time migration of prismatic waves for surface topography based on decoupled elastic wave equations in the curvilinear coordinates. ***Exploration Geophysics\***, 52(4), 369-387.
+[28] **Qu, Y.\***, Liu, C., Huang, C., Zhou, C. Sun, J., and Li, Z., 2021, Elastic reverse time migration of prismatic waves for surface topography based on decoupled elastic wave equations in the curvilinear coordinates. ***Exploration Geophysics\***, 52(4), 369-387.
 
 [29] Sun, W., Li, Z., **Qu, Y.\***, Li, Z., 2019, Multiple attenuation using λ–f domain high-order and high-resolution Radon transform based on SL0 norm. ***Applied Geophysics\***, 16(4), 473–482.
 
-[30] ****Qu, Y.\****, Huang, C., Liu C., Zhou C., Li, Z., Worral, Q., 2019, Zhenchun Li, Jianping Huang, Haipeng Li. 2019, Multiparameter least-squares reverse time migration for acoustic–elastic coupling media based on ocean bottom cable data. ***Applied Geophysics\***, 16(3), 327–337.
+[30] **Qu, Y.\***, Huang, C., Liu C., Zhou C., Li, Z., Worral, Q., 2019, Zhenchun Li, Jianping Huang, Haipeng Li. 2019, Multiparameter least-squares reverse time migration for acoustic–elastic coupling media based on ocean bottom cable data. ***Applied Geophysics\***, 16(3), 327–337.
 
-[31] ****Qu, Y.\****, Qurmet, W. Zhou, C., et al., 2022, Acoustic-elastic coupled least-squares reverse time migration in marine environment with rugged seabed interface, ***Exploration Geophysics\***, 53(2), 169–185.
+[31] **Qu, Y.\***, Qurmet, W. Zhou, C., et al., 2022, Acoustic-elastic coupled least-squares reverse time migration in marine environment with rugged seabed interface, ***Exploration Geophysics\***, 53(2), 169–185.
 
 [32] Chen, K., Han, S., Ran, Q., Wen, L., Zhang, G., and **Qu, Y.\***, 2023, Steeply dipping structural target-oriented viscoacoustic least- squares reverse time migration and its application. ***Applied Geophysics\***, 19(4), 528-536.
 
-[33] ****Qu, Y.\****, Li, Z., Huang, J., Li, J., 2017, Viscoacoustic anisotropic full waveform inversion. ***Journal of Applied Geophysics\***, 136, 484-497.
+[33] **Qu, Y.\***, Li, Z., Huang, J., Li, J., 2017, Viscoacoustic anisotropic full waveform inversion. ***Journal of Applied Geophysics\***, 136, 484-497.
 
-[34] ****Qu, Y.\****, Li, Z., Huang, J., Li, J., 2016, Multi-scale full waveform inversion for areas with irregular surface topography in an auxiliary coordinate system. ***Exploration Geophysics\***. 49(1), 70-82.
+[34] **Qu, Y.\***, Li, Z., Huang, J., Li, J., 2016, Multi-scale full waveform inversion for areas with irregular surface topography in an auxiliary coordinate system. ***Exploration Geophysics\***. 49(1), 70-82.
 
 [35] Liu, C., **Qu, Y.\***, Li, Z., Zeng, S., Yang, T., and Zhao, W., 2023, Regional staining reverse time migration algorithm based on energy-constrained factors: ***Acta Geophysica\***, 1-11.
 
-[36] ****Qu, Y.\****, Li, Z., Huang, J., Li, J., 2017, An elastic full waveform inversion based on wave-mode separation. ***Exploration Geophysics\***. 52(4): 422-444.
+[36] **Qu, Y.\***, Li, Z., Huang, J., Li, J., 2017, An elastic full waveform inversion based on wave-mode separation. ***Exploration Geophysics\***. 52(4): 422-444.
 
-[37] ****Qu, Y.\****, Sun, J., Li, Z., et al., 2019, Forward modeling of ocean bottom cable data and wave-mode separation in fluid–solid elastic media with irregular seabed. ***Applied Geophysics\***, 15(3-4), 432–447.
+[37] **Qu, Y.\***, Sun, J., Li, Z., et al., 2019, Forward modeling of ocean bottom cable data and wave-mode separation in fluid–solid elastic media with irregular seabed. ***Applied Geophysics\***, 15(3-4), 432–447.
 
-[38] ****Qu, Y.\****, Huang, J., Li, J., 2020, Elastic reverse-time migration in irregular tunnel environment based on polar coordinates. ***Applied Geophysics\***, 17(2), 468―476.
+[38] **Qu, Y.\***, Huang, J., Li, J., 2020, Elastic reverse-time migration in irregular tunnel environment based on polar coordinates. ***Applied Geophysics\***, 17(2), 468―476.
 
-[39] ****Qu, Y.\****, Li, J., and Li, Z. 2020, Viscoacoustic Wave Numerical Simulation Method in an Auxiliary System for Irregular Surface Topography Based on a Hybrid Spatial Partial Derivative Scheme. ***Journal of Theoretical and Computational Acoustics\***, 28(1), 1950022.
+[39] **Qu, Y.\***, Li, J., and Li, Z. 2020, Viscoacoustic Wave Numerical Simulation Method in an Auxiliary System for Irregular Surface Topography Based on a Hybrid Spatial Partial Derivative Scheme. ***Journal of Theoretical and Computational Acoustics\***, 28(1), 1950022.
 
-[40] Huang, J. ****Qu, Y.\****, Li, Q., Li, Z., Li, G., Bu, C., and Teng, H., 2015, Variable-coordinate forward modeling of irregular surface based on dual-variable grid. ***Applied Geophysics\***, 12(1), 101-110.
+[40] Huang, J. **Qu, Y.\***, Li, Q., Li, Z., Li, G., Bu, C., and Teng, H., 2015, Variable-coordinate forward modeling of irregular surface based on dual-variable grid. ***Applied Geophysics\***, 12(1), 101-110.
 
-[41] Liu, C., ****Qu, Y.\****, Zhao, W., Zeng, S., Yang, T., and Li, Z., 2023, Interferometric imaging by cross correlation in surface seismic profile with double Green’s function. ***Journal of Seismic Exploration\***, 32, 243-256.
+[41] Liu, C., **Qu, Y.\***, Zhao, W., Zeng, S., Yang, T., and Li, Z., 2023, Interferometric imaging by cross correlation in surface seismic profile with double Green’s function. ***Journal of Seismic Exploration\***, 32, 243-256.
 
 [42] Wang, Z. J., Cao, S. Y., Zhang, H. R., **Qu, Y. M.**, Yuan, D., Yang, J. H., and Shao, G. M., 2015, Estimation of quality factors by energy ratio method. ***Applied Geophysics\***, 12(1), 86-92.
 
 [43] Tao, T., **Qu, Y.\***, Li, Z., Dong, Y., 2023. Viscoacoustic VTI media reverse time migration method in the complex-domain based on the staining algorithm. ***Journal of Applied Geophysics\***.
 
-[44] ****Qu, Y.\****, Huang, J., Li, Z., Li, J., 2016, Prismatic and full-waveform joint inversion. ***Applied Geophysics\***, 13(3), 511-518.
+[44] **Qu, Y.\***, Huang, J., Li, Z., Li, J., 2016, Prismatic and full-waveform joint inversion. ***Applied Geophysics\***, 13(3), 511-518.
 
 [45] **曲英铭**, 黄建平, 李振春, 李金丽, 2015, 基于单元交错网格的变坐标系正演模拟方法在声弹介质中的应用: ***石油物探\***, 54(5), 582-591.
 
