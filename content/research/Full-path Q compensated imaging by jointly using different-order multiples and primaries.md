@@ -56,7 +56,7 @@ projects:
 ---
 
 <div style="text-align: center;">
-  <img src="Full-path Q compensated imaging by jointly using different-order multiples and primaries.assets/image.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="Full-path Q compensated imaging by jointly using different-order multiples and primaries.assets/image.jpg" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 <br />
 
