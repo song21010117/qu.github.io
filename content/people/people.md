@@ -33,7 +33,7 @@ table th:first-of-type {
 
  |                                                             |                                                              |
  |:----------------------------------------------------------- | :----------------------------------------------------------- |
- |<img align="left" src="people.assets/quyingming.jpg" width="80%" /> | **Group leader, Yingming Qu**<br />
+ |<img align="left" src="people.assets/quyingming.png" width="80%" /> | **Group leader, Yingming Qu**<br />
 
 
 
