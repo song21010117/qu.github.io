@@ -167,17 +167,17 @@ design:
 
 ------
 
-[1] **Qu*, Y.**, C. Zhou, C. Liu, Z. Li, Z. Chen, and K. Xu, 2021, Q-compensated least-squares reverse time migration of different-order multiples: **82nd EAGE Annual Conference and Exhibition\***.
+[1] **Qu\*****, Y.**, C. Zhou, C. Liu, Z. Li, Z. Chen, and K. Xu, 2021, Q-compensated least-squares reverse time migration of different-order multiples: **82nd EAGE Annual Conference and Exhibition\***.
 
-[2] **Qu*, Y.**, Z. Li, J. Huang, W. Deng, and J. Li, 2015, The application of pseudospectral method and a stable reverse-time propagator for viscoacoustic RTM: **SEG Technical Program Expanded Abstracts\***.
+[2] **Qu\*****, Y.**, Z. Li, J. Huang, W. Deng, and J. Li, 2015, The application of pseudospectral method and a stable reverse-time propagator for viscoacoustic RTM: **SEG Technical Program Expanded Abstracts\***.
 
-[3] **Qu*, Y.**, Z. Li, J. Huang, and J. Li, 2016, Anelastic Modeling for the Media with Irregular Fluid-solid Interfaces:**78th EAGE Conference and Exhibition\***, 1-5.
+[3] **Qu\*****, Y.**, Z. Li, J. Huang, and J. Li, 2016, Anelastic Modeling for the Media with Irregular Fluid-solid Interfaces:**78th EAGE Conference and Exhibition\***, 1-5.
 
-[4] **Qu*, Y.**, Z. Li, J. Huang, and J. Li, 2016, Viscoacoustic VTI Least Square Reverse Time Migration:**78th EAGE Conference and Exhibition\***.
+[4] **Qu\*****, Y.**, Z. Li, J. Huang, and J. Li, 2016, Viscoacoustic VTI Least Square Reverse Time Migration:**78th EAGE Conference and Exhibition\***.
 
-[5] **Qu*, Y.**, Z. Li, J. Huang, J. Li, and B. Liu, 2016, Irregular surface FWI in an auxiliary coordinate system: **SEG Technical Program Expanded Abstracts\***, 1079-1083.
+[5] **Qu\*****, Y.**, Z. Li, J. Huang, J. Li, and B. Liu, 2016, Irregular surface FWI in an auxiliary coordinate system: **SEG Technical Program Expanded Abstracts\***, 1079-1083.
 
-[6] **Qu*, Y.**, J. Huang, Z. Li, Y. Han, and Q. Li, 2015, A Joint Waveform Inversion Strategy - Combing Full Waveform Inversion with Prismatic Waveform Inversion: **77th EAGE Conference and Exhibition\***.
+[6] **Qu\*****, Y.**, J. Huang, Z. Li, Y. Han, and Q. Li, 2015, A Joint Waveform Inversion Strategy - Combing Full Waveform Inversion with Prismatic Waveform Inversion: **77th EAGE Conference and Exhibition\***.
 
 [7] Huang, J., **Y. Qu\***, Z. Li, and Q. Li, 2013, Mapping forward modeling method based on dual-variable grid: **75th EAGE Conference & Exhibition incorporating SPE EUROPEC\***, cp-348-00784.
 
