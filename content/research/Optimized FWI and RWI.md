@@ -64,10 +64,14 @@ projects:
  <font color=black> ● Multi-scale full waveform inversion based on the double-cross diffusion filtering</font><br /> 
 
 <div style="text-align: center;">
-  <img src="./Optimized FWI and RWI.assets/image.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Optimized FWI and RWI.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
-
-
+<div style="text-align: center;">
+  <img src="./Optimized FWI and RWI.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
+<div style="text-align: center;">
+  <img src="./Optimized FWI and RWI.assets/image3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
 
 
 "Elastic full-waveform inversion for surface topography" can be downloaded and viewed as a pdf, or [click this link.](https://library.seg.org/doi/10.1190/geo2016-0349.1)

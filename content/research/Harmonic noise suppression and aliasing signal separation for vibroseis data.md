@@ -64,6 +64,11 @@ projects:
 
 
 <div style="text-align: center;">
-  <img src="./Harmonic noise suppression and aliasing signal separation for vibroseis data.assets/image.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Harmonic noise suppression and aliasing signal separation for vibroseis data.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
+<div style="text-align: center;">
+  <img src="./Harmonic noise suppression and aliasing signal separation for vibroseis data.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
+
+
 
