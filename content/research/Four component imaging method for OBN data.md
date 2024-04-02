@@ -55,12 +55,26 @@ projects:
 #slides: example
 ---
 
+### <center>Four component imaging method for OBN data<center>
+
+ <font color=black> ● Joint acoustic and decoupled-elastic least-squares reverse time migration for simultaneously using water-land dual-detector data</font>
+ <font color=black> ● Ocean bottom dual-sensor Q-compensated elastic least-squares reverse time migration based on acoustic and separated-viscoelastic coupling equations</font>
+
 <div style="text-align: center;">
-  <img src="./Four component imaging method for OBN data.assets/image.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Four component imaging method for OBN data.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
-<br />
 
-The ocean bottom dual-sensor (OBD) observation system places water detectors (pressure sensors) and land detectors on the irregular seabed interface to receive acoustic pressure fields and elastic wavefields, respectively. These data are usually applied to effectively remove ghost waves and ringing interference in the seawater layer, rather than being jointly used for migration. We propose an ocean bottom dual-sensor viscoacoustic and separated-viscoelastic coupled Q-compensated least-squares reverse time migration (OBD-VSV-QLSRTM) in curvilinear coordinates. In this method, to solve the Q-compensated elastic inverse problem, we jointly use the recorded acoustic pressure and elastic multicomponent seismic data from the OBD observation system. A new misfit function in the sense of least-squares inversion is constructed based on viscoacoustic and separated viscoelastic wavefields. Acoustic and separated viscoelastic equations are used to describe the acoustic wavefield in the acoustic medium and the Q-compensated P and S wavefields in the underlying viscoelastic medium, respectively. On the acoustic-viscoelastic interface, we implement a stable governing equation to ensure continuous and steady transmission of Q-compensated stresses in the subseabed and pressure in the seawater. To address the irregular seabed problem, we mesh the acoustic-viscoelastic models onto curvilinear grids and apply coordinate transformations to map the models and equations to a new curvilinear coordinate system. We derive viscoacoustic and separated-viscoelastic coupled adjoint and demigration operators in the curvilinear coordinates, enabling linear acoustic-viscoelastic modeling and stable receiver-side back-propagated wavefield continuation. Numerical examples conducted on two typical acoustic-viscoelastic models demonstrate that our proposed OBD-VSV-QLSRTM in curvilinear coordinates can produce highly accurate P- and S-wave images efficiently.
+<div style="text-align: center;">
+  <img src="./Four component imaging method for OBN data.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
+
+<div style="text-align: center;">
+  <img src="./Four component imaging method for OBN data.assets/image3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
 
 
-A detailed introduction can be downloaded and viewed as a pdf, or [click this link.](https://library.seg.org/doi/10.1190/geo2023-0433.1)
+
+
+"Joint acoustic and decoupled-elastic least-squares reverse time migration for simultaneously using water-land dual-detector data" can be downloaded and viewed as a pdf, or [click this link.](https://ieeexplore.ieee.org/document/10109715)
+
+"Ocean bottom dual-sensor Q-compensated elastic least-squares reverse time migration based on acoustic and separated-viscoelastic coupling equations" can be downloaded and viewed as a pdf, or [click this link.](https://library.seg.org/doi/10.1190/geo2023-0433.1)

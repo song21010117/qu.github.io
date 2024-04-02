@@ -55,12 +55,28 @@ projects:
 #slides: example
 ---
 
+### <center>Topographic forward modeling, RTM, LSRTM and FWI<center>
+
+ <font color=black> ● Elastic full-waveform inversion for surface topography</font>
+ <font color=black> ● 3-D Least-Squares Reverse Time Migration in Curvilinear-τ Domain</font>
+
 <div style="text-align: center;">
-  <img src="./Topographic forward modeling, RTM, LSRTM and FWI.assets/image.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Topographic forward modeling, RTM, LSRTM and FWI.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
-<br />
+<font color=black> ● Topographic elastic least-squares reverse time migration based on vector P- and S-wave equations in the curvilinear coordinates</font>
+<font color=black> ● Multi-scale full waveform inversion for areas with irregular surface topography in an auxiliary coordinate system</font>
 
-Elastic full-waveform inversion (EFWI) attempts to find high-resolution model parameters that are able to match observed data exactly by minimizing residuals between the observed and predicted data. However, irregular surface topography can generate problematic EFWI results. To resolve this issue, an EFWI method in the curvilinear system is presented to invert velocities for areas with surface topography. This method meshes the regions near the surface topography into body-fitted grids, and areas off surface regions into rectangular grids. We derived the gradient formulas with respect to multiple parameters in the curvilinear system and developed a step-search method to calculate the corresponding step lengths. Wiener filtering is performed on a multiscale decomposition method to invert the velocity from a low to a high wavenumber. Error analysis, using a homogeneous model with a surface topography, demonstrates the accuracy and validity of our methods. Numerical experiments with an elastic hill gully surface topography model reveal that the results obtained from our method are comparable with those of the body-fitted grid method, with the notable exception of a shortened computation time for the generation of grids and simulating wavefields. The inverted results with a modified elastic Marmousi model indicate that the inverted parameters are very well-resolved after implementing the proposed EFWI on the surface topography. The sensitivity analyzes of heterogeneous near-surface media, stochastic noise, and starting velocity errors further reveal that our method has the capability of handling complex land data.
+<div style="text-align: center;">
+  <img src="./Topographic forward modeling, RTM, LSRTM and FWI.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
 
 
-A detailed introduction can be downloaded and viewed as a pdf, or [click this link.](https://library.seg.org/doi/10.1190/geo2016-0349.1)
+
+
+"Elastic full-waveform inversion for surface topography" can be downloaded and viewed as a pdf, or [click this link.](https://library.seg.org/doi/10.1190/geo2016-0349.1)
+
+"3-D Least-Squares Reverse Time Migration in Curvilinear-τ Domain" can be downloaded and viewed as a pdf, or [click this link.](https://ieeexplore.ieee.org/document/9611042)
+
+"Topographic elastic least-squares reverse time migration based on vector P- and S-wave equations in the curvilinear coordinates" can be downloaded and viewed as a pdf, or [click this link.](https://onlinelibrary.wiley.com/doi/10.1111/1365-2478.12775)
+
+"Multi-scale full waveform inversion for areas with irregular surface topography in an auxiliary coordinate system" can be downloaded and viewed as a pdf, or [click this link.](https://www.tandfonline.com/doi/full/10.1071/EG16037?scroll=top&needAccess=true)

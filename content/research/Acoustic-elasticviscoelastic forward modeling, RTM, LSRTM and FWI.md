@@ -55,12 +55,28 @@ projects:
 #slides: example
 ---
 
+### <center>Acoustic-elasticviscoelastic forward modeling, RTM, LSRTM and FWI<center>
+
+ <font color=black> ● A hybrid grid method in an auxiliary coordinate system for irregular fluid–solid interface modelling</font>
+ <font color=black> ● Fluid-solid coupled full-waveform inversion in the curvilinear coordinates for ocean-bottom cable data</font>
+ <font color=black> ● P- and S-wave separated elastic reverse time migration for OBC data from fluid-solid coupled media with irregular seabed interfaces</font>
+ <font color=black> ● Acoustic-elastic coupled least-squares reverse time migration in marine environment with rugged seabed interface</font>
+
 <div style="text-align: center;">
-  <img src="./Acoustic-elasticviscoelastic forward modeling, RTM, LSRTM and FWI.assets/image.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Acoustic-elasticviscoelastic forward modeling, RTM, LSRTM and FWI.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
-<br />
 
-Marine seismic exploration with ocean-bottom cable technology is able to record P- and S-wave information simultaneously. Elastic full-waveform inversion (EFWI) uses P- and S-waves to invert multiple parameters with adequate amplitude information and complete illumination of the subsurface. To calculate the wavefield within EFWI, we use different formats of wave equations in fluid and solid mediums and an appropriate boundary condition to convert waves on the interface. This partitioned simulation scheme is more stable and efficient than the traditional integrated simulation scheme. However, if the fluid-solid coupled medium has an extremely irregular interface, the conventional finite-difference method with rectangular grids cannot obtain accurate source and receiver wavefields. We use the curvilinear coordinates to overcome this limitation. In the curvilinear coordinates, the irregular interface can be transformed into a horizontal interface. To reduce the crosstalk of inverted P- (⁠⁠) and S-velocities (⁠⁠), we derive the gradient formulas of and based on P- and S-wave mode separation in the curvilinear coordinates, and, finally, we develop a 2D curvilinear-grid-based fluid-solid separated-wavefield EFWI (CFS-SEFWI) method. Numerical examples that include an anomaly model and a modified Marmousi II model demonstrate that CFS-SEFWI overcomes the influence of the irregular fluid-solid interface and efficiently reduces crosstalk effects between and ⁠. Our results also demonstrate that this method is less sensitive to noise compared to the conventional CFS FWI method without separating wave modes.
+<div style="text-align: center;">
+  <img src="./Acoustic-elasticviscoelastic forward modeling, RTM, LSRTM and FWI.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
 
 
-A detailed introduction can be downloaded and viewed as a pdf, or [click this link.](https://pubs.geoscienceworld.org/geophysics/article-abstract/85/3/R113/583054/Fluid-solid-coupled-full-waveform-inversion-in-the)
+
+
+"A hybrid grid method in an auxiliary coordinate system for irregular fluid–solid interface modelling" can be downloaded and viewed as a pdf, or [click this link.](https://academic.oup.com/gji/article/208/3/1540/2454294?login=false1)
+
+"Fluid-solid coupled full-waveform inversion in the curvilinear coordinates for ocean-bottom cable data" can be downloaded and viewed as a pdf, or [click this link.](https://pubs.geoscienceworld.org/geophysics/article-abstract/85/3/R113/583054/Fluid-solid-coupled-full-waveform-inversion-in-the)
+
+"P- and S-wave separated elastic reverse time migration for OBC data from fluid-solid coupled media with irregular seabed interfaces" can be downloaded and viewed as a pdf, or [click this link.](https://www.sciencedirect.com/science/article/abs/pii/S0926985119303477)
+
+"Acoustic-elastic coupled least-squares reverse time migration in marine environment with rugged seabed interface" can be downloaded and viewed as a pdf, or [click this link.](https://www.tandfonline.com/doi/full/10.1080/08123985.2021.1904778)

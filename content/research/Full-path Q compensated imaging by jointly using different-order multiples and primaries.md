@@ -57,12 +57,12 @@ projects:
 
 ### <center>Full-path Q compensated imaging by jointly using different-order multiples and primaries<center>
 
- <font color=blue> ● Viscoacoustic reverse time migration of joint primaries and different-order multiples</font>
+ <font color=black> ● Viscoacoustic reverse time migration of joint primaries and different-order multiples</font>
 
 <div style="text-align: center;">
   <img src="./Full-path Q compensated imaging by jointly using different-order multiples and primaries.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
-<font color=blue> ● Full-path compensated least-squares reverse time migration of joint primaries and different-order multiples for deep-marine environment</font>
+<font color=black> ● Full-path compensated least-squares reverse time migration of joint primaries and different-order multiples for deep-marine environment</font>
 
 <div style="text-align: center;">
   <img src="./Full-path Q compensated imaging by jointly using different-order multiples and primaries.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
@@ -74,3 +74,5 @@ projects:
 "Viscoacoustic reverse time migration of joint primaries and different-order multiples" can be downloaded and viewed as a pdf, or [click this link.](https://pubs.geoscienceworld.org/geophysics/article-abstract/85/2/S71/580898/Viscoacoustic-reverse-time-migration-of-joint)
 
 "Full-path compensated least-squares reverse time migration of joint primaries and different-order multiples for deep-marine environment" can be downloaded and viewed as a pdf, or [click this link.](https://ieeexplore.ieee.org/document/9214896)
+
+"Viscoacoustic least-squares reverse-time migration of different-order free-surface multiples" can be downloaded and viewed as a pdf, or [click this link.](https://onlinelibrary.wiley.com/doi/10.1111/1365-2478.13274)

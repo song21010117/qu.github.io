@@ -55,12 +55,23 @@ projects:
 #slides: example
 ---
 
+### <center>Elastic least-squares reverse time migration with velocities and density perturbation<center>
+
+ <font color=black> ● We have proposed an elastic LSRTM with density variations method based on wave modes separation to reduce these crosstalk artefacts by using P- and S-wave decoupled elastic velocity–stress equations to derive demigration equations and gradient formulae with respect to Vp, Vs and ρ.</font>
+
 <div style="text-align: center;">
-  <img src="./Elastic least-squares reverse time migration with velocities and density perturbation.assets/image.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Elastic least-squares reverse time migration with velocities and density perturbation.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
-<br />
 
-Elastic least-squares reverse time migration (LSRTM) based on the non-density-perturbation assumption can generate false-migrated interfaces caused by density variations. We perform an elastic LSRTM scheme with density variations for multicomponent seismic data to produce high-quality images in Vp, Vs and ρ components. However, the migrated images may suffer from crosstalk artefacts caused by P- and S-waves coupling in elastic LSRTM no matter what model parametrizations used. We have proposed an elastic LSRTM with density variations method based on wave modes separation to reduce these crosstalk artefacts by using P- and S-wave decoupled elastic velocity–stress equations to derive demigration equations and gradient formulae with respect to Vp, Vs and ρ. Numerical experiments with synthetic data demonstrate the capability and superiority of the proposed method. The imaging results suggest that our method promises imaging results with higher quality and has a faster residual convergence rate. Sensitivity analysis of migration velocity, migration density and stochastic noise verifies the robustness of the proposed method for field data.
+<div style="text-align: center;">
+  <img src="./Elastic least-squares reverse time migration with velocities and density perturbation.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
+
+<div style="text-align: center;">
+  <img src="./Elastic least-squares reverse time migration with velocities and density perturbation.assets/image3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
 
 
-A detailed introduction can be downloaded and viewed as a pdf, or [click this link.](https://academic.oup.com/gji/article/212/2/1033/4566520)
+
+
+"Elastic least-squares reverse time migration with velocities and density perturbation" can be downloaded and viewed as a pdf, or [click this link.](https://academic.oup.com/gji/article/212/2/1033/4566520)

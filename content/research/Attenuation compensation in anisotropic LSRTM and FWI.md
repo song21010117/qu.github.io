@@ -57,18 +57,18 @@ projects:
 
 ### <center>Attenuation compensation in anisotropic LSRTM and FWI<center>
 
- <font color=blue> ● Q-compensated least-squares reverse time migration with velocity-anisotropy correction based on the first-order velocity-pressure equations</font>
+ <font color=black> ● Q-compensated least-squares reverse time migration with velocity-anisotropy correction based on the first-order velocity-pressure equations</font>
 
 <div style="text-align: center;">
   <img src="./Attenuation compensation in anisotropic LSRTM and FWI.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
-<font color=blue> ● Attenuation compensation in anisotropic least-squares reverse time migration based on the second-order equations</font>
+<font color=black> ● Attenuation compensation in anisotropic least-squares reverse time migration based on the second-order equations</font>
 
 <div style="text-align: center;">
   <img src="./Attenuation compensation in anisotropic LSRTM and FWI.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
-<font color=blue> ● Viscoacoustic anisotropic full waveform inversion</font>
+<font color=black> ● Viscoacoustic anisotropic full waveform inversion</font>
 
 <div style="text-align: center;">
   <img src="./Attenuation compensation in anisotropic LSRTM and FWI.assets/image3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
