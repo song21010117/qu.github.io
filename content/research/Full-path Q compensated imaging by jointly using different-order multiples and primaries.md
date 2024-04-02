@@ -55,12 +55,22 @@ projects:
 #slides: example
 ---
 
+### <center>Full-path Q compensated imaging by jointly using different-order multiples and primaries<center>
+
+ <font color=blue> ● Viscoacoustic reverse time migration of joint primaries and different-order multiples</font>
+
 <div style="text-align: center;">
-  <img src="Full-path Q compensated imaging by jointly using different-order multiples and primaries.assets/image.jpg" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Full-path Q compensated imaging by jointly using different-order multiples and primaries.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
-<br />
+<font color=blue> ● Full-path compensated least-squares reverse time migration of joint primaries and different-order multiples for deep-marine environment</font>
 
-Compared to primary arrivals, multiples have longer propagation paths and smaller reflection angles, leading to a wider illumination area in the horizontal direction and higher resolution in the vertical direction. Hence, it is better to make full use of the multiples rather than suppressing them. However, seismic attenuation exists widely in the subsurface medium, especially directly below the deep sea bottom. Therefore, to compensate for the attenuation effect during multiple imaging, we have developed a viscoacoustic reverse time migration (RTM) method of different-order multiples. Following the multiple propagation paths, we compensate for the attenuation during source wavefield forward propagation and receiver backward propagation, and we introduce a regularization operator to automatically eliminate the exponential high-frequency noise during the attenuation compensation process. Taking advantage of the full wavefield information, we jointly use the different-order multiples and primaries when implementing viscoacoustic RTM. In numerical examples, we validate the viscoacoustic RTM of different-order multiples in a three-layer attenuation model and an attenuating Sigsbee2B model. Our results suggest that our method can image the models using different-order multiples separately, which suppresses crosstalk artifacts, balances energy, raises resolution, and improves subsalt images dramatically1.
+<div style="text-align: center;">
+  <img src="./Full-path Q compensated imaging by jointly using different-order multiples and primaries.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
 
 
-A detailed introduction can be downloaded and viewed as a pdf, or [click this link.](https://pubs.geoscienceworld.org/geophysics/article-abstract/85/2/S71/580898/Viscoacoustic-reverse-time-migration-of-joint)
+
+
+"Viscoacoustic reverse time migration of joint primaries and different-order multiples" can be downloaded and viewed as a pdf, or [click this link.](https://pubs.geoscienceworld.org/geophysics/article-abstract/85/2/S71/580898/Viscoacoustic-reverse-time-migration-of-joint)
+
+"Full-path compensated least-squares reverse time migration of joint primaries and different-order multiples for deep-marine environment" can be downloaded and viewed as a pdf, or [click this link.](https://ieeexplore.ieee.org/document/9214896)

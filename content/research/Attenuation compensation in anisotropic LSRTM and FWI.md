@@ -55,7 +55,7 @@ projects:
 #slides: example
 ---
 
-### <center>Sensitive kernel analysis<center>
+### <center>Attenuation compensation in anisotropic LSRTM and FWI<center>
 
  <font color=blue> ● Q-compensated least-squares reverse time migration with velocity-anisotropy correction based on the first-order velocity-pressure equations</font>
 
