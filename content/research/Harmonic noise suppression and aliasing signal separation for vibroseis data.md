@@ -1,6 +1,6 @@
 ---
-title: "Average-derivative Optimized 21-Point and Improved 25-Point Forward Modeling and Full Waveform Inversion in Frequency Domain"
-subtitle: "- 2023-11-03"
+title: "Harmonic noise suppression and aliasing signal separation for vibroseis data"
+subtitle: "- "
 summary: We present a multiscale fusion network with shot record attention (MFNSR) module, which can construct velocity models directly from the original seismic record. The proposed network can obtain fine-grained complete semantic information in the shot record by multilayer fusion operation. 
 authors:
 - Jing Lu
@@ -9,10 +9,10 @@ authors:
 
 
 
-doi: "10.1109/TGRS.2023.3329932"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-11-03"
+publishDate: ""
 
 weight: 80
 
@@ -57,11 +57,14 @@ projects:
 #slides: example
 ---
 
-### <center>Average-derivative Optimized 21-Point and Improved 25-Point Forward Modeling and Full Waveform Inversion in Frequency Domain<center>
+### <center>Harmonic noise suppression and aliasing signal separation for vibroseis data<center>
 
- <font color=black> ● To improve the adaptability of the forward modelling algorithm in the frequency domain, we derive a 21-point finite difference scheme based on the average derivative method (ADM), and calculate the difference coefficients and dispersion condition. In order to solve the problem of huge computational cost in frequency domain forward modelling, we also derive an improved 25-point finite difference scheme. The improved 25-point format is more accurate than the conventional 25-point format.</font>
+ <font color=black> ● A joint special noise suppressing technology for vibroseis data after cross-correlation is proposed based on the characteristics of the two kinds of special noise, in which the harmonic noise is firstly suppressed by the predictive filtering method based on a feedback system, and then the surface response noise is suppressed by the frequency division method.</font>
+ <br />    
+ <font color=black> ● Different techniques are used for vibroseis aliasing data acquired from different acquisition methods.</font>
+
 
 <div style="text-align: center;">
-  <img src="./Average-derivative Optimized 21-Point and Improved 25-Point Forward Modeling and Full Waveform Inversion in Frequency Domain.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Harmonic noise suppression and aliasing signal separation for vibroseis data.assets/image.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 

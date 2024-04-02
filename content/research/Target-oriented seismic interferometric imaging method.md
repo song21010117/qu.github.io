@@ -55,12 +55,29 @@ projects:
 #slides: example
 ---
 
+### <center>Target-oriented seismic interferometric imaging method<center>
+
+ <font color=black> ● Staining algorithm for least-squares reverse time migration</font>
+ <font color=black> ● Regional staining reverse time migration algorithm based on energy‑constrained factors</font>
+ <font color=black> ● Viscoacoustic VTI media reverse time migration method in the complex-domain based on the staining algorithm (Accepted)</font>
+ <font color=black> ● Interferometric imaging by cross correlation in surface seismic profile with double green's function</font>
+
 <div style="text-align: center;">
-  <img src="./Target-oriented seismic interferometric imaging method.assets/image.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Target-oriented seismic interferometric imaging method.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
-<br />
 
-The staining algorithm-based reverse time migration (RTM) technique has shown promise in improving imaging results for certain complex structures, such as subsalt and steeply dipping layers, by incorporating the complex domain. However, RTM suffers from low-resolution images as it utilizes the adjoint of the forward modeling operator rather than its inverse operator. To address this limitation, we propose a new approach called stained least-squares RTM (ST-LSRTM) that enhances the gradient through the integration of the staining algorithm. In ST-LSRTM, we first develop the wave equation and Born approximation, transitioning from the real to the complex domains. To simplify the linear perturbation operator, we constrain the magnitude of the imaginary velocity. Next, we compute the gradient in the complex domain. The enhanced gradient is obtained by replacing the traditional gradient with the normalized stained gradient within the stained region. Finally, we construct a misfit function based on the L2 norm and calculate the step size and gradient direction using the conjugate gradient method. Model tests demonstrate that ST-LSRTM achieves high-resolution imaging results even when the stained area is imprecise. Comparisons of waveform curves and normalized residual curves confirm that ST-LSRTM approaches true reflection coefficient model more closely compared to traditional LSRTM.
+<div style="text-align: center;">
+  <img src="./Target-oriented seismic interferometric imaging method.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
+
+<div style="text-align: center;">
+  <img src="./Target-oriented seismic interferometric imaging method.assets/image3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
 
 
-A detailed introduction can be downloaded and viewed as a pdf, or [click this link.](https://www.sciencedirect.com/science/article/abs/pii/S092698512300321X)
+
+"Staining algorithm for least-squares reverse time migration" can be downloaded and viewed as a pdf, or [click this link.](https://www.sciencedirect.com/science/article/abs/pii/S092698512300321X)
+
+"Regional staining reverse time migration algorithm based on energy‑constrained factors" can be downloaded and viewed as a pdf, or [click this link.](https://link.springer.com/article/10.1007/s11600-023-01205-2)
+
+"INTERFEROMETRIC IMAGING BY CROSS CORRELATION IN SURFACE SEISMIC PROFILE WITH DOUBLE GREEN'S FUNCTION" can be downloaded and viewed as a pdf, or [click this link.](http://www.geophysical-press.com/online/Vol32-3_art3.pdf)

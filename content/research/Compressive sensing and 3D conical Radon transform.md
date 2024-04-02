@@ -57,12 +57,31 @@ projects:
 #slides: example
 ---
 
+### <center>Compressive sensing and 3D conical Radon transform<center>
+
+ <font color=black> ● The 3D conical Radon transform for seismic signal processing</font>
+ <font color=black> ● 3D conic Radon domain compressive sensing adaptive suppression of near-surface noise (Under review)</font>
+
 <div style="text-align: center;">
-  <img src="./Compressive sensing and 3D conical Radon transform.assets/image.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Compressive sensing and 3D conical Radon transform.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
-<br />
 
-Recently, the attenuation of highly aliased broadband surface waves has received significant attention as their high-frequency and low-speed components render f-kx-ky filters ineffective. As a popular tool widely used in seismic signal processing, the 3D linear Radon (τ-p) transform does not match the surface wave events in the time domain. This leads to the dispersal of energy over ellipses on the zero-intercept slice, whereas the reflected events over the ellipses are reflected on each intercept slice of the 3D linear Radon transform (LRT) domain, decreasing the resolution in slowness. We have introduced a new type of Radon transform defined on circular cones called 3D conical Radon transform (CRT) for seismic signal processing. Unlike LRT, the CRT maps seismic data to surface integrals on circular cones in the 3D seismic records. Consequently, surface wave events are focused as points on the zero-intercept slice, whereas the reflected events are points on each intercept slice of the CRT domain, which significantly improves the resolution in slowness compared with the LRT. We determine the performance of the CRT for seismic signal processing for random noise attenuation, primary and multiple separations, and surface wave attenuation. Based on a comparison with the LRT, synthetic data and field data sets validate the effectiveness of the CRT method at improving the focusing properties.
+<div style="text-align: center;">
+  <img src="./Compressive sensing and 3D conical Radon transform.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
+
+<div style="text-align: center;">
+  <img src="./Compressive sensing and 3D conical Radon transform.assets/image3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
+
+<div style="text-align: center;">
+  <img src="./Compressive sensing and 3D conical Radon transform.assets/image4.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
+
+<div style="text-align: center;">
+  <img src="./Compressive sensing and 3D conical Radon transform.assets/image5.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
 
 
-A detailed introduction can be downloaded and viewed as a pdf, or [click this link.](https://library.seg.org/doi/10.1190/geo2021-0278.1)
+
+"The 3D conical Radon transform for seismic signal processing" can be downloaded and viewed as a pdf, or [click this link.](https://library.seg.org/doi/10.1190/geo2021-0278.1)

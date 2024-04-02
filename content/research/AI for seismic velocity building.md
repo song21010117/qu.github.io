@@ -57,12 +57,19 @@ projects:
 #slides: example
 ---
 
+### <center>AI for seismic velocity building<center>
+
+ <font color=black> ● we present a multiscale fusion network with shot record attention (MFNSR) module, which can construct velocity models directly from the original seismic record. The proposed network can obtain fine-grained complete semantic information in the shot record by multilayer fusion operation. Shot record attention (SR-attention) is proposed to reveal the medium-to-low frequency information in the shot record. The proposed random noise block enables better generalization of the model and higher accuracy in modeling the shot record speed of the entrained noise.</font>
+
 <div style="text-align: center;">
-  <img src="./AI for seismic velocity building.assets/image.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./AI for seismic velocity building.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
-<br />
 
-Seismic velocity is crucial for seismic waveform inversion in geological exploration. An accurate velocity model is a key prerequisite for reverse time migration and other high-resolution seismic imaging techniques. Traditional methods perform well in seismic wave velocity modeling, but there are issues, such as lack of low-frequency components, low computational efficiency, and subjective factors, which result in low accuracy in modeling seismic wave velocity containing noise. In addition, mid-to-low frequency data are crucial for velocity model inversion, but existing methods often overlook this. In this article, we present a multiscale fusion network with shot record attention (MFNSR) module, which can construct velocity models directly from the original seismic record. The proposed network can obtain fine-grained complete semantic information in the shot record by multilayer fusion operation. Shot record attention (SR-attention) is proposed to reveal the medium-to-low frequency information in the shot record. The proposed random noise block enables better generalization of the model and higher accuracy in modeling the shot record speed of the entrained noise. The results of extensive numerical experiments on synthetic models show that our method acquires outstanding performance, which verifies the positive effect of MFNSR on the inversion of medium-to-low frequency data. The visualizations of outputs show that the proposed method can obtain more accurate velocity models.
+<div style="text-align: center;">
+  <img src="./AI for seismic velocity building.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
 
 
-A detailed introduction can be downloaded and viewed as a pdf, or [click this link.](https://ieeexplore.ieee.org/document/10308616)
+
+"Multiscale Fusion Network With SR-Attention for Seismic Velocity Model Building" can be downloaded and viewed as a pdf, or [click this link.](https://ieeexplore.ieee.org/document/10308616)
+
