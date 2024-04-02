@@ -64,4 +64,15 @@ projects:
 <div style="text-align: center;">
   <img src="./Average-derivative Optimized 21-Point and Improved 25-Point Forward Modeling and Full Waveform Inversion in Frequency Domain.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
+<div style="text-align: center;">
+  <img src="./Average-derivative Optimized 21-Point and Improved 25-Point Forward Modeling and Full Waveform Inversion in Frequency Domain.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
+<div style="text-align: center;">
+  <img src="./Average-derivative Optimized 21-Point and Improved 25-Point Forward Modeling and Full Waveform Inversion in Frequency Domain.assets/image3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
+<div style="text-align: center;">
+  <img src="./Average-derivative Optimized 21-Point and Improved 25-Point Forward Modeling and Full Waveform Inversion in Frequency Domain.assets/image4.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
+
+
 
