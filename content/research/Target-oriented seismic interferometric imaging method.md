@@ -57,9 +57,9 @@ projects:
 
 ### <center>Target-oriented seismic interferometric imaging method<center>
 
- <font color=black> ● Staining algorithm for least-squares reverse time migration</font>
- <font color=black> ● Regional staining reverse time migration algorithm based on energy‑constrained factors</font>
- <font color=black> ● Viscoacoustic VTI media reverse time migration method in the complex-domain based on the staining algorithm (Accepted)</font>
+ <font color=black> ● Staining algorithm for least-squares reverse time migration</font><br /> 
+ <font color=black> ● Regional staining reverse time migration algorithm based on energy‑constrained factors</font><br /> 
+ <font color=black> ● Viscoacoustic VTI media reverse time migration method in the complex-domain based on the staining algorithm (Accepted)</font><br /> 
  <font color=black> ● Interferometric imaging by cross correlation in surface seismic profile with double green's function</font>
 
 <div style="text-align: center;">

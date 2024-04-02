@@ -57,7 +57,7 @@ projects:
 
 ### <center>Four component imaging method for OBN data<center>
 
- <font color=black> ● Joint acoustic and decoupled-elastic least-squares reverse time migration for simultaneously using water-land dual-detector data</font>
+ <font color=black> ● Joint acoustic and decoupled-elastic least-squares reverse time migration for simultaneously using water-land dual-detector data</font><br /> 
  <font color=black> ● Ocean bottom dual-sensor Q-compensated elastic least-squares reverse time migration based on acoustic and separated-viscoelastic coupling equations</font>
 
 <div style="text-align: center;">

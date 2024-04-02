@@ -57,11 +57,11 @@ projects:
 
 ### <center>Optimized FWI and RWI<center>
 
- <font color=black> ● Elastic full-waveform inversion for surface topography</font>
- <font color=black> ● Elastic full-waveform inversion based on the double-cross-shaped discrete flux-corrected transport</font>
- <font color=black> ● Q-compensated full waveform inversion for velocity and density</font>
- <font color=black> ● Cross-correlation Reflection Waveform Inversion based on a weighted norm of the time-shift obtained by Dynamic Image Warping</font>
- <font color=black> ● Multi-scale full waveform inversion based on the double-cross diffusion filtering</font>
+ <font color=black> ● Elastic full-waveform inversion for surface topography</font><br /> 
+ <font color=black> ● Elastic full-waveform inversion based on the double-cross-shaped discrete flux-corrected transport</font><br /> 
+ <font color=black> ● Q-compensated full waveform inversion for velocity and density</font><br /> 
+ <font color=black> ● Cross-correlation Reflection Waveform Inversion based on a weighted norm of the time-shift obtained by Dynamic Image Warping</font><br /> 
+ <font color=black> ● Multi-scale full waveform inversion based on the double-cross diffusion filtering</font><br /> 
 
 <div style="text-align: center;">
   <img src="./Optimized FWI and RWI.assets/image.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">

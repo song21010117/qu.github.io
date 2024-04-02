@@ -57,9 +57,9 @@ projects:
 
 ### <center>Acoustic-elasticviscoelastic forward modeling, RTM, LSRTM and FWI<center>
 
- <font color=black> ● A hybrid grid method in an auxiliary coordinate system for irregular fluid–solid interface modelling</font>
- <font color=black> ● Fluid-solid coupled full-waveform inversion in the curvilinear coordinates for ocean-bottom cable data</font>
- <font color=black> ● P- and S-wave separated elastic reverse time migration for OBC data from fluid-solid coupled media with irregular seabed interfaces</font>
+ <font color=black> ● A hybrid grid method in an auxiliary coordinate system for irregular fluid–solid interface modelling</font><br /> 
+ <font color=black> ● Fluid-solid coupled full-waveform inversion in the curvilinear coordinates for ocean-bottom cable data</font><br /> 
+ <font color=black> ● P- and S-wave separated elastic reverse time migration for OBC data from fluid-solid coupled media with irregular seabed interfaces</font><br /> 
  <font color=black> ● Acoustic-elastic coupled least-squares reverse time migration in marine environment with rugged seabed interface</font>
 
 <div style="text-align: center;">

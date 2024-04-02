@@ -59,8 +59,7 @@ projects:
 
 ### <center>Harmonic noise suppression and aliasing signal separation for vibroseis data<center>
 
- <font color=black> ● A joint special noise suppressing technology for vibroseis data after cross-correlation is proposed based on the characteristics of the two kinds of special noise, in which the harmonic noise is firstly suppressed by the predictive filtering method based on a feedback system, and then the surface response noise is suppressed by the frequency division method.</font>
- <br />    
+ <font color=black> ● A joint special noise suppressing technology for vibroseis data after cross-correlation is proposed based on the characteristics of the two kinds of special noise, in which the harmonic noise is firstly suppressed by the predictive filtering method based on a feedback system, and then the surface response noise is suppressed by the frequency division method.</font><br />    
  <font color=black> ● Different techniques are used for vibroseis aliasing data acquired from different acquisition methods.</font>
 
 

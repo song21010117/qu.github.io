@@ -59,7 +59,7 @@ projects:
 
 ### <center>Compressive sensing and 3D conical Radon transform<center>
 
- <font color=black> ● The 3D conical Radon transform for seismic signal processing</font>
+ <font color=black> ● The 3D conical Radon transform for seismic signal processing</font><br /> 
  <font color=black> ● 3D conic Radon domain compressive sensing adaptive suppression of near-surface noise (Under review)</font>
 
 <div style="text-align: center;">

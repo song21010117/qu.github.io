@@ -57,7 +57,7 @@ projects:
 
 ### <center>Q-compensated RTM and LSRTM in viscoacoustic media including surface topography<center>
 
- <font color=black> ● Q-compensated reverse time migration in viscoacoustic media including surface topography</font>
+ <font color=black> ● Q-compensated reverse time migration in viscoacoustic media including surface topography</font><br /> 
  <font color=black> ● Q least-squares reverse time migration based on the first-orderviscoacoustic quasidifferential equations</font>
 
 <div style="text-align: center;">
