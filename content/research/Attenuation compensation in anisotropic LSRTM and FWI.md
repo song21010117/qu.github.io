@@ -55,12 +55,31 @@ projects:
 #slides: example
 ---
 
+### <center>Sensitive kernel analysis<center>
+
+ <font color=blue> ● Q-compensated least-squares reverse time migration with velocity-anisotropy correction based on the first-order velocity-pressure equations</font>
+
 <div style="text-align: center;">
-  <img src="Attenuation compensation in anisotropic LSRTM and FWI.assets/image.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Attenuation compensation in anisotropic LSRTM and FWI.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
-<br />
+<font color=blue> ● Attenuation compensation in anisotropic least-squares reverse time migration based on the second-order equations</font>
 
-Anisotropy and Q attenuation bring great challenges to seismic wave migration. On migrated images, anisotropy creates structural and positioning errors, and Q attenuation leads to weak amplitudes and misplacement of reflectors. A 2D Q-compensated least-squares reverse time migration with velocity-anisotropy correction (QLSRTM-VA) is proposed through the construction of velocity-anisotropic Q-compensated forward modeling, Q-compensated adjoint, and Q-attenuated demigration operators to simultaneously correct velocity-anisotropy and Q-attenuation in the migration process. The preceding operators are derived using first-order velocity-anisotropic viscoacoustic quasi-differential wave equations with variable densities, which are stable, capable of conveniently dealing with variable density media and are easy to transform between velocity-anisotropic Q-compensation and Q-attenuation versions. As exemplified by two synthetic and field data sets, our QLSRTM-VA method increases the imaging resolution, signal-to-noise ratio, and amplitude preservation in deep regions. Our method is capable of producing better images than viscoacoustic isotropic least-squares reverse time migration (LSRTM) and acoustic anisotropic LSRTM.
+<div style="text-align: center;">
+  <img src="./Attenuation compensation in anisotropic LSRTM and FWI.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
+
+<font color=blue> ● Viscoacoustic anisotropic full waveform inversion</font>
+
+<div style="text-align: center;">
+  <img src="./Attenuation compensation in anisotropic LSRTM and FWI.assets/image3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
 
 
-A detailed introduction can be downloaded and viewed as a pdf, or [click this link.](https://library.seg.org/doi/epub/10.1190/geo2021-0689.1)
+
+
+
+"Q-compensated least-squares reverse time migration with velocity-anisotropy correction based on the first-order velocity-pressure equations" can be downloaded and viewed as a pdf, or [click this link.](https://library.seg.org/doi/epub/10.1190/geo2021-0689.1)
+
+"Attenuation compensation in anisotropic least-squares reverse time migration based on the second-order equations" can be downloaded and viewed as a pdf, or [click this link.](https://library.seg.org/doi/10.1190/geo2016-0677.1)
+
+"Viscoacoustic anisotropic full waveform inversion" can be downloaded and viewed as a pdf, or [click this link.](https://www.sciencedirect.com/science/article/abs/pii/S0926985116305973)
