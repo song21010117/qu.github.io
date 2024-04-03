@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-03-31
 type: landing
 
 sections:
@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Team Profile
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -77,7 +77,7 @@ sections:
         - title: Associate Professor, doctoral supervisor
           company: China University of Petroleum (East China)
           company_url: 'https://www.upc.edu.cn/'
-          company_logo: org-x
+          company_logo: org-gc
           location: Qingdao, China
           date_start: '2020-09-01'
           date_end: '2022-12-01'
@@ -87,7 +87,7 @@ sections:
         - title: Associate Professor, master supervisor
           company: China University of Petroleum (East China)
           company_url: 'https://www.upc.edu.cn/'
-          company_logo: org-x
+          company_logo: org-gc
           location: Qingdao, China
           date_start: '2018-09-01'
           date_end: '2019-08-01'
@@ -293,10 +293,6 @@ sections:
         latitude: '120.1825'
         longitude: '35.9418'
       contact_links:
-        - icon: linkedin
-          icon_pack: fab
-          name: DM Me
-          link: 'https://www.linkedin.com/in/jidong-yang-144088136/'
         - icon: video
           icon_pack: fab
           name: Zoom Me

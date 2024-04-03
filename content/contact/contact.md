@@ -41,10 +41,6 @@ content:
   directions: Enter Building Engineering C and take the stairs to Office C641 on Floor 6
   appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: linkedin
-      icon_pack: fab
-      name: DM Me
-      link: https://www.linkedin.com/in/yingming-qu-144088136/
     - icon: video
       icon_pack: fas
       name: Zoom Me
