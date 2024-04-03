@@ -61,10 +61,26 @@ url_video: ''
 
 ---
 
- |<img align="middle" src="./Imaging and velocity inversion methods of jointly using prismatic wave and primaries for imaging steeply dipping structures.assets/image.jpg" width="100%" />
- |<br />
+### <center>Optimized point spread function imaging-domain LSRTM<center>
 
-Prismatic waves carry steeply dipping structural information that primaries cannot contain. Therefore, prismatic waves are separately used in some migration methods to improve the illumination and imaging effect on steeply dipping structures. Least-squares reverse time migration of prismatic waves (LSRTM-P) can produce high-resolution images with improved steeply dipping structures. However, viscoelasticity exists widely on the Earth, which poses great difficulty for imaging. The effect of attenuation on prismatic waves is difficult to be compensated when conducting LSRTM-P because prismatic waves have three propagation paths. To overcome this problem, a Q -compensated LSRTM ( Q -LSRTM)-P method is proposed by deriving Q -compensated forward-propagated operators and backward-propagated adjoint operators of prismatic waves, which compensates for Q attenuation along all the three propagation paths of prismatic waves. The proposed Q -LSRTM-P is conducted to update the image after applying the conventional Q -LSRTM. Besides, the proposed method can be adapted to the irregular surface media. Numerical examples on two synthetic and a field datasets verify that our method can produce better imaging results with clearer steeply dipping structures, higher signal-to-noise ratio (SNR), higher resolution, and more balanced amplitude than noncompensated LSRTM-P and conventional Q -LSRTM.
+ <font color=black> ● Topography-dependent Q-compensated least-squares reverse time migration of prismatic waves</font><br />
+ <font color=black> ● Steeply dipping structural target oriented viscoacoustic prismatic reverse time migration in frequency domain and its application</font><br />
+ <font color=black> ● Elastic reverse time migration of prismatic waves for surface topography based on decoupled elastic wave equations in the curvilinear coordinates</font><br />
+ <font color=black> ● Prismatic and full-waveform joint inversion</font>
+
+<div style="text-align: center;">
+  <img src="./Imaging and velocity inversion methods of jointly using prismatic wave and primaries for imaging steeply dipping structures.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
+<div style="text-align: center;">
+  <img src="./Imaging and velocity inversion methods of jointly using prismatic wave and primaries for imaging steeply dipping structures.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
+<div style="text-align: center;">
+  <img src="./Imaging and velocity inversion methods of jointly using prismatic wave and primaries for imaging steeply dipping structures.assets/image3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+</div>
 
 
-A detailed introduction can be downloaded and viewed as a pdf, or [click this link.](https://ieeexplore.ieee.org/document/9611263)
+"Topography-Dependent Q-Compensated Least-Squares Reverse Time Migration of Prismatic Waves" can be downloaded and viewed as a pdf, or [click this link.](https://ieeexplore.ieee.org/document/9611263)
+
+"Velocity-Adaptive Irregular Point Spread Function Deconvolution Imaging Using X-Shaped Denoising Diffusion Filtering" can be downloaded and viewed as a pdf, or [click this link.](https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2478.13409)
+
+"Velocity-Adaptive Irregular Point Spread Function Deconvolution Imaging Using X-Shaped Denoising Diffusion Filtering" can be downloaded and viewed as a pdf, or [click this link.](https://www.tandfonline.com/doi/full/10.1080/08123985.2020.1826891)
