@@ -65,7 +65,7 @@ sections:
         - title: Professor, doctoral supervisor
           company: China University of Petroleum (East China)
           company_url: 'https://www.upc.edu.cn/'
-          company_logo: org-gc
+          company_logo: org-x
           location: Qingdao, China
           date_start: '2022-12-01'
           date_end: ''
@@ -73,7 +73,7 @@ sections:
         - title: Associate Professor, doctoral supervisor
           company: China University of Petroleum (East China)
           company_url: 'https://www.upc.edu.cn/'
-          company_logo: org-gc
+          company_logo: org-x
           location: Qingdao, China
           date_start: '2020-09-01'
           date_end: '2022-12-01'
@@ -81,7 +81,7 @@ sections:
         - title: Associate Professor, master supervisor
           company: China University of Petroleum (East China)
           company_url: 'https://www.upc.edu.cn/'
-          company_logo: org-gc
+          company_logo: org-x
           location: Qingdao, China
           date_start: '2018-09-01'
           date_end: '2019-08-01'
