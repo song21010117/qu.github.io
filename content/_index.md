@@ -65,7 +65,7 @@ sections:
         - title: Professor, doctoral supervisor
           company: China University of Petroleum (East China)
           company_url: 'https://www.upc.edu.cn/'
-          company_logo: org-gc
+          company_logo: upc.png
           location: Qingdao, China
           date_start: '2022-12-01'
           date_end: ''
