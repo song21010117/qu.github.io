@@ -159,30 +159,6 @@ sections:
           organization_url:
           title: Promotion editor
           url: ''
-        - certificate_url:
-          date_end: '2024-07-01'
-          date_start: '2021-08-01'
-          description: '《石油物探》青年编委'
-          organization: 《石油物探》
-          organization_url:
-          title: 青年编委
-          url: ''
-        - certificate_url:
-          date_end: ''
-          date_start: '2019-01-01'
-          description: 'SEG member'
-          organization: SEG
-          organization_url:
-          title: member 
-          url: 'https://library.seg.org/'
-        - certificate_url:
-          date_end: ''
-          date_start: '2013-01-01'
-          description: 'EAGE member'
-          organization: EAGE
-          organization_url:
-          title: member
-          url: 'https://eage.org/'
         - certificate_url: 
           date_end: ''
           date_start: '2016-01-01'
