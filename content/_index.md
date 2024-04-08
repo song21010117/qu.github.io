@@ -114,11 +114,75 @@ sections:
         - certificate_url:
           date_end: ''
           date_start: '2023-01-01'
-          description: 'Associate editor for Journal of Exploration Geophysics'
+          description: 'Associate editor for Exploration Geophysics'
           organization: Exploration Geophysics
           organization_url:
           title: Associate editor
           url: 'https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=texg20'
+        - certificate_url:
+          date_end: '2024-12-31'
+          date_start: '2022-01-01'
+          description: 'Associate editor for Petroleum and Petrochemical Engineering Journal'
+          organization: Petroleum and Petrochemical Engineering Journal
+          organization_url:
+          title: Associate editor
+          url: ''
+        - certificate_url:
+          date_end: ''
+          date_start: '2022-01-05'
+          description: 'Editorial board for Applied Geophysics'
+          organization: Applied Geophysics
+          organization_url:
+          title: Editorial board
+          url: ''
+        - certificate_url:
+          date_end: '2024-11-16'
+          date_start: '2022-11-16'
+          description: 'Editorial board for American Journal of Physics and Applications'
+          organization: American Journal of Physics and Applications
+          organization_url:
+          title: Editorial board
+          url: ''
+        - certificate_url:
+          date_end: '2024-09-01'
+          date_start: '2020-08-01'
+          description: 'Promotion editor for Petroleum Science'
+          organization: Petroleum Science
+          organization_url:
+          title: Promotion editor
+          url: ''
+        - certificate_url:
+          date_end: '2025-08-01'
+          date_start: '2023-08-01'
+          description: 'Promotion editor for Journal of Geophysics and Engineering'
+          organization: Journal of Geophysics and Engineering
+          organization_url:
+          title: Promotion editor
+          url: ''
+        - certificate_url:
+          date_end: '2024-07-01'
+          date_start: '2021-08-01'
+          description: '《石油物探》青年编委'
+          organization: 《石油物探》
+          organization_url:
+          title: 青年编委
+          url: ''
+        - certificate_url:
+          date_end: ''
+          date_start: '2019-01-01'
+          description: 'SEG member'
+          organization: SEG
+          organization_url:
+          title: member 
+          url: 'https://library.seg.org/'
+        - certificate_url:
+          date_end: ''
+          date_start: '2013-01-01'
+          description: 'EAGE member'
+          organization: EAGE
+          organization_url:
+          title: member
+          url: 'https://eage.org/'
         - certificate_url: 
           date_end: ''
           date_start: '2016-01-01'
