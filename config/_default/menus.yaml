@@ -19,7 +19,7 @@ main:
 #  - name: Datasets
 #    url: datasets
 #    weight: 40
-  - name: News
+  - name: Activities
     url: post
     weight: 50
   - name: Contact

@@ -75,11 +75,16 @@ table th:first-of-type {
  | <br />     
  |<img align="left" src="people.assets/niuyunbo.jpg" width="80%" /> | **2023-Present, Yunbo Niu:  Geological Resources and Geological Engineering**<br />Yunbo Niu obtained his Bachelor's degree in Exploration Technology and Engineering from Chongqing University of Science and Technology in June 2023. He joined China University of Petroleum (East China) in September 2023 to pursue a Master's degree. His current primary focus lies in utilizing physical information neural networks for seismic wave forward modeling and inversion imaging. During his leisure time, he enjoys engaging in literary readings and playing soccer. |
  | <br />     
-
-
-
-
-
+ |<img align="left" src="people.assets/dongshihao.jpg" width="80%" /> | **2022-Present, Shihao Dong:  Geological Resources and Geological Engineering**<br />Yunbo Niu obtained his Bachelor's degree in Exploration Technology and Engineering from Chongqing University of Science and Technology in June 2023. He joined China University of Petroleum (East China) in September 2023 to pursue a Master's degree. His current primary focus lies in utilizing physical information neural networks for seismic wave forward modeling and inversion imaging. During his leisure time, he enjoys engaging in literary readings and playing soccer. |
+ | <br />
+ |<img align="left" src="people.assets/bilaijin.jpg" width="80%" /> | **2022-Present, Laijin Bi:  Geological Resources and Geological Engineering**<br />Yunbo Niu obtained his Bachelor's degree in Exploration Technology and Engineering from Chongqing University of Science and Technology in June 2023. He joined China University of Petroleum (East China) in September 2023 to pursue a Master's degree. His current primary focus lies in utilizing physical information neural networks for seismic wave forward modeling and inversion imaging. During his leisure time, he enjoys engaging in literary readings and playing soccer. |
+ | <br />
+ |<img align="left" src="people.assets/zhongtianmiao.jpg" width="80%" /> | **2021-Present, Tianmiao Zhong:  Geophysics**<br />Yunbo Niu obtained his Bachelor's degree in Exploration Technology and Engineering from Chongqing University of Science and Technology in June 2023. He joined China University of Petroleum (East China) in September 2023 to pursue a Master's degree. His current primary focus lies in utilizing physical information neural networks for seismic wave forward modeling and inversion imaging. During his leisure time, he enjoys engaging in literary readings and playing soccer. |
+ | <br />
+ |<img align="left" src="people.assets/zhaojie.jpg" width="80%" /> | **2022-Present, Jie Zhao:  Geological Resources and Geological Engineering**<br />Yunbo Niu obtained his Bachelor's degree in Exploration Technology and Engineering from Chongqing University of Science and Technology in June 2023. He joined China University of Petroleum (East China) in September 2023 to pursue a Master's degree. His current primary focus lies in utilizing physical information neural networks for seismic wave forward modeling and inversion imaging. During his leisure time, he enjoys engaging in literary readings and playing soccer. |
+ | <br />
+ |<img align="left" src="people.assets/yangyanpeng.jpg" width="80%" /> | **2023-Present, Yanpeng Yang:  Geological Resources and Geological Engineering**<br />Yunbo Niu obtained his Bachelor's degree in Exploration Technology and Engineering from Chongqing University of Science and Technology in June 2023. He joined China University of Petroleum (East China) in September 2023 to pursue a Master's degree. His current primary focus lies in utilizing physical information neural networks for seismic wave forward modeling and inversion imaging. During his leisure time, he enjoys engaging in literary readings and playing soccer. |
+ | <br />
 ### Openings
 
 We are looking for qualified students with strong motivation on geophysics. Please feel free to contact Dr. Yingming Qu ([quyingming@upc.edu.cn](mailto:quyingming@upc.edu.cn)) if you have any questions about master and doctoral application at China University of Petroleum.
