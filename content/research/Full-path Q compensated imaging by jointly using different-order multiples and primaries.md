@@ -1,6 +1,6 @@
 ---
 title: "Full-path Q compensated imaging by jointly using different-order multiples and primaries"
-subtitle: "- 2020-01-09"
+subtitle: ""
 summary: Based on a preceding operators our QLSRTM-VA method increases the imaging resolution, signal-to-noise ratio, and amplitude preservation in deep regions. Our method is capable of producing better images than viscoacoustic isotropic least-squares reverse time migration (LSRTM) and acoustic anisotropic LSRTM.
 authors:
 - Yingming Qu

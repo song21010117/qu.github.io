@@ -93,7 +93,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Academic Experiences'
+      title: 'Academic Adjuncts'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -111,6 +111,14 @@ sections:
           organization_url:
           title: Associate editor
           url: 'https://www.sciencedirect.com/journal/journal-of-applied-geophysics/about/editorial-board'
+        - certificate_url:
+          date_end: ''
+          date_start: '2023-01-01'
+          description: 'Associate editor for Journal of Exploration Geophysics'
+          organization: Exploration Geophysics
+          organization_url:
+          title: Associate editor
+          url: 'https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=texg20'
         - certificate_url: 
           date_end: ''
           date_start: '2016-01-01'

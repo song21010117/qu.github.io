@@ -1,6 +1,6 @@
 ---
 title: "Acoustic-elasticviscoelastic forward modeling, RTM, LSRTM and FWI"
-subtitle: "- 2020-03-22"
+subtitle: ""
 summary: We develop a 2D curvilinear-grid-based fluid-solid separated-wavefield EFWI (CFS-SEFWI) method. Numerical examples that include an anomaly model and a modified Marmousi II model demonstrate that CFS-SEFWI overcomes the influence of the irregular fluid-solid interface and efficiently reduces crosstalk effects. 
 authors:
 - Yingming Qu

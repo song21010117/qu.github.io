@@ -38,10 +38,10 @@ education:
   courses:
     - course: Doctor of Science in Geophysics
       institution: China University of Petroleum
-      year: 2014.09--2018.06
-    - course: Master of Science in Geophysics
-      institution: China University of Petroleum
-      year: 2012.09--2014.06
+      year: 2012.09--2018.06
+    - course: Visiting Student
+      institution: Rice University
+      year: 2016.09--2017.06
     - course: Bachelor of Science in Geophysics
       institution: China University of Petroleum
       year: 2008.09--2012.06

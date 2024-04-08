@@ -1,6 +1,6 @@
 ---
 title: "AI for seismic velocity building"
-subtitle: "- 2023-11-03"
+subtitle: ""
 summary: We present a multiscale fusion network with shot record attention (MFNSR) module, which can construct velocity models directly from the original seismic record. The proposed network can obtain fine-grained complete semantic information in the shot record by multilayer fusion operation. 
 authors:
 - Jing Lu

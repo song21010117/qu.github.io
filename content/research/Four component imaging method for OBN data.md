@@ -1,6 +1,6 @@
 ---
 title: "Four component imaging method for OBN data"
-subtitle: "- 2024-02-26"
+subtitle: ""
 summary: We propose an ocean bottom dual-sensor viscoacoustic and separated-viscoelastic coupled Q-compensated least-squares reverse time migration (OBD-VSV-QLSRTM) in curvilinear coordinates. In this method, to solve the Q-compensated elastic inverse problem, we jointly use the recorded acoustic pressure and elastic multicomponent seismic data from the OBD observation system. 
 authors:
 - Jinli Li
