@@ -1,6 +1,6 @@
 ---
 title: "Q-compensated RTM and LSRTM in viscoacoustic media including surface topography"
-subtitle: "- 2019-07-01"
+subtitle: ""
 summary: To overcome these problems, we have developed a Q-compensated topographic RTM method. In this method, a new viscoacoustic quasidifferential equation is introduced to simulate forward- and backward-propagated wavefields. 
 authors:
 - Yingming Qu

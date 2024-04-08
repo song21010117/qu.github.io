@@ -1,6 +1,6 @@
 ---
 title: "Imaging and velocity inversion methods of jointly using prismatic wave and primaries for imaging steeply dipping structures"
-subtitle: "- 2022-06-22"
+subtitle: ""
 summary: A Q -compensated LSRTM ( Q -LSRTM)-P method is proposed by deriving Q -compensated forward-propagated operators and backward-propagated adjoint operators of prismatic waves, which compensates for Q attenuation along all the three propagation paths of prismatic waves. 
 authors:
 - Yingming Qu

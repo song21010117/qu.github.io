@@ -1,6 +1,6 @@
 ---
 title: "Topographic forward modeling, RTM, LSRTM and FWI"
-subtitle: "- 2017-09-01"
+subtitle: ""
 summary: An EFWI method in the curvilinear system is presented to invert velocities for areas with surface topography. This method meshes the regions near the surface topography into body-fitted grids, and areas off surface regions into rectangular grids. 
 authors:
 - Yingming Qu

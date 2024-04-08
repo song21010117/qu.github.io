@@ -1,6 +1,6 @@
 ---
 title: "Harmonic noise suppression and aliasing signal separation for vibroseis data"
-subtitle: "- "
+subtitle: ""
 summary: We present a multiscale fusion network with shot record attention (MFNSR) module, which can construct velocity models directly from the original seismic record. The proposed network can obtain fine-grained complete semantic information in the shot record by multilayer fusion operation. 
 authors:
 - Jing Lu

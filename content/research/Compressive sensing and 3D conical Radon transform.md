@@ -1,6 +1,6 @@
 ---
 title: "Compressive sensing and 3D conical Radon transform"
-subtitle: "- 2022-08-10"
+subtitle: ""
 summary: We have introduced a new type of Radon transform defined on circular cones called 3D conical Radon transform (CRT) for seismic signal processing. Unlike LRT, the CRT maps seismic data to surface integrals on circular cones in the 3D seismic records. 
 authors:
 - Wenzhi Sun

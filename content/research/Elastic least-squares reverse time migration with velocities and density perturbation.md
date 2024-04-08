@@ -1,6 +1,6 @@
 ---
 title: "Elastic least-squares reverse time migration with velocities and density perturbation"
-subtitle: "- 2017-10-26"
+subtitle: ""
 summary: We have proposed an elastic LSRTM with density variations method based on wave modes separation to reduce these crosstalk artefacts by using P- and S-wave decoupled elastic velocity–stress equations to derive demigration equations and gradient formulae with respect to Vp, Vs and ρ. Numerical experiments with synthetic data demonstrate the capability and superiority of the proposed method. 
 authors:
 - Yingming Qu

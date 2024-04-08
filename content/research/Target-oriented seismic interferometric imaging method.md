@@ -1,6 +1,6 @@
 ---
 title: "Target-oriented seismic interferometric imaging method"
-subtitle: "- 2023-12-01"
+subtitle: ""
 summary: To address this limitation, we propose a new approach called stained least-squares RTM (ST-LSRTM) that enhances the gradient through the integration of the staining algorithm. 
 authors:
 - Chang Liu

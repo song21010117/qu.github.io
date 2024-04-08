@@ -1,6 +1,6 @@
 ---
 title: "Optimized point spread function imaging-domain LSRTM"
-subtitle: "- 2023-08-07"
+subtitle: ""
 summary: To accurately calculate the inverse of the Hessian matrix, solve the PSF sparsity selection problem, and eliminate migration noise, we propose a velocity-adaptive irregular PSF deconvolution imaging using a Gaussian smoothing X-shaped denoising diffusion filtering operator. 
 authors:
 - Yixin Wang
