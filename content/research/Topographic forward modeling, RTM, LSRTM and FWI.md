@@ -61,13 +61,13 @@ projects:
  <font color=black> ● 3-D Least-Squares Reverse Time Migration in Curvilinear-τ Domain</font>
 
 <div style="text-align: center;">
-  <img src="./Topographic forward modeling, RTM, LSRTM and FWI.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Topographic forward modeling, RTM, LSRTM and FWI.assets/topic4pic1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 <font color=black> ● Topographic elastic least-squares reverse time migration based on vector P- and S-wave equations in the curvilinear coordinates</font><br /> 
 <font color=black> ● Multi-scale full waveform inversion for areas with irregular surface topography in an auxiliary coordinate system</font>
 
 <div style="text-align: center;">
-  <img src="./Topographic forward modeling, RTM, LSRTM and FWI.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Topographic forward modeling, RTM, LSRTM and FWI.assets/topic4pic2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 
