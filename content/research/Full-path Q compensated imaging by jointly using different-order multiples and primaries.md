@@ -60,12 +60,12 @@ projects:
  <font color=black> ● Viscoacoustic reverse time migration of joint primaries and different-order multiples</font>
 
 <div style="text-align: center;">
-  <img src="./Full-path Q compensated imaging by jointly using different-order multiples and primaries.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Full-path Q compensated imaging by jointly using different-order multiples and primaries.assets/topic2pic1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 <font color=black> ● Full-path compensated least-squares reverse time migration of joint primaries and different-order multiples for deep-marine environment</font>
 
 <div style="text-align: center;">
-  <img src="./Full-path Q compensated imaging by jointly using different-order multiples and primaries.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Full-path Q compensated imaging by jointly using different-order multiples and primaries.assets/topic2pic2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 
