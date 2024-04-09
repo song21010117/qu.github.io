@@ -63,23 +63,23 @@ projects:
  <font color=black> ● 3D conic Radon domain compressive sensing adaptive suppression of near-surface noise (Under review)</font>
 
 <div style="text-align: center;">
-  <img src="./Compressive sensing and 3D conical Radon transform.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Compressive sensing and 3D conical Radon transform.assets/topic10pic1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="text-align: center;">
-  <img src="./Compressive sensing and 3D conical Radon transform.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Compressive sensing and 3D conical Radon transform.assets/topic10pic2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="text-align: center;">
-  <img src="./Compressive sensing and 3D conical Radon transform.assets/image3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Compressive sensing and 3D conical Radon transform.assets/topic10pic3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="text-align: center;">
-  <img src="./Compressive sensing and 3D conical Radon transform.assets/image4.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Compressive sensing and 3D conical Radon transform.assets/topic10pic4.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="text-align: center;">
-  <img src="./Compressive sensing and 3D conical Radon transform.assets/image5.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Compressive sensing and 3D conical Radon transform.assets/topic10pic5.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 
