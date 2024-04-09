@@ -64,13 +64,13 @@ projects:
  <font color=black> ● Multi-scale full waveform inversion based on the double-cross diffusion filtering</font><br /> 
 
 <div style="text-align: center;">
-  <img src="./Optimized FWI and RWI.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Optimized FWI and RWI.assets/14pic1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 <div style="text-align: center;">
-  <img src="./Optimized FWI and RWI.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Optimized FWI and RWI.assets/14pic2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 <div style="text-align: center;">
-  <img src="./Optimized FWI and RWI.assets/image3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Optimized FWI and RWI.assets/14pic3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 
