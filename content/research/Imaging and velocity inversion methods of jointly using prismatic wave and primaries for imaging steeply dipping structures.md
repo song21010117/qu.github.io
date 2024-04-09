@@ -61,7 +61,7 @@ url_video: ''
 
 ---
 
-### <center>Optimized point spread function imaging-domain LSRTM<center>
+### <center>Imaging and velocity inversion methods of jointly using prismatic wave and primaries for imaging steeply dipping structures<center>
 
  <font color=black> ● Topography-dependent Q-compensated least-squares reverse time migration of prismatic waves</font><br />
  <font color=black> ● Steeply dipping structural target oriented viscoacoustic prismatic reverse time migration in frequency domain and its application</font><br />
@@ -69,13 +69,13 @@ url_video: ''
  <font color=black> ● Prismatic and full-waveform joint inversion</font>
 
 <div style="text-align: center;">
-  <img src="./Imaging and velocity inversion methods of jointly using prismatic wave and primaries for imaging steeply dipping structures.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Imaging and velocity inversion methods of jointly using prismatic wave and primaries for imaging steeply dipping structures.assets/topic3pic1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 <div style="text-align: center;">
-  <img src="./Imaging and velocity inversion methods of jointly using prismatic wave and primaries for imaging steeply dipping structures.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Imaging and velocity inversion methods of jointly using prismatic wave and primaries for imaging steeply dipping structures.assets/topic3pic2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 <div style="text-align: center;">
-  <img src="./Imaging and velocity inversion methods of jointly using prismatic wave and primaries for imaging steeply dipping structures.assets/image3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Imaging and velocity inversion methods of jointly using prismatic wave and primaries for imaging steeply dipping structures.assets/topic3pic3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 
