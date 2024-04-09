@@ -62,11 +62,11 @@ projects:
  <font color=black> ● we present a multiscale fusion network with shot record attention (MFNSR) module, which can construct velocity models directly from the original seismic record. The proposed network can obtain fine-grained complete semantic information in the shot record by multilayer fusion operation. Shot record attention (SR-attention) is proposed to reveal the medium-to-low frequency information in the shot record. The proposed random noise block enables better generalization of the model and higher accuracy in modeling the shot record speed of the entrained noise.</font>
 
 <div style="text-align: center;">
-  <img src="./AI for seismic velocity building.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./AI for seismic velocity building.assets/topic9pic1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="text-align: center;">
-  <img src="./AI for seismic velocity building.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./AI for seismic velocity building.assets/topic9pic2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 
