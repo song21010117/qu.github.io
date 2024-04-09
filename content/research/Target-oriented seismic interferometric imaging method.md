@@ -63,15 +63,15 @@ projects:
  <font color=black> ● Interferometric imaging by cross correlation in surface seismic profile with double green's function</font>
 
 <div style="text-align: center;">
-  <img src="./Target-oriented seismic interferometric imaging method.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Target-oriented seismic interferometric imaging method.assets/topic11pic1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="text-align: center;">
-  <img src="./Target-oriented seismic interferometric imaging method.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Target-oriented seismic interferometric imaging method.assets/topic11pic2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="text-align: center;">
-  <img src="./Target-oriented seismic interferometric imaging method.assets/image3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Target-oriented seismic interferometric imaging method.assets/topic11pic3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 
