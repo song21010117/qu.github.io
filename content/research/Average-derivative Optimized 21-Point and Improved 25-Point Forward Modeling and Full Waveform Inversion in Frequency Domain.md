@@ -62,16 +62,16 @@ projects:
  <font color=black> ● To improve the adaptability of the forward modelling algorithm in the frequency domain, we derive a 21-point finite difference scheme based on the average derivative method (ADM), and calculate the difference coefficients and dispersion condition. In order to solve the problem of huge computational cost in frequency domain forward modelling, we also derive an improved 25-point finite difference scheme. The improved 25-point format is more accurate than the conventional 25-point format.</font>
 
 <div style="text-align: center;">
-  <img src="./Average-derivative Optimized 21-Point and Improved 25-Point Forward Modeling and Full Waveform Inversion in Frequency Domain.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Average-derivative Optimized 21-Point and Improved 25-Point Forward Modeling and Full Waveform Inversion in Frequency Domain.assets/topic12pic1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 <div style="text-align: center;">
-  <img src="./Average-derivative Optimized 21-Point and Improved 25-Point Forward Modeling and Full Waveform Inversion in Frequency Domain.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Average-derivative Optimized 21-Point and Improved 25-Point Forward Modeling and Full Waveform Inversion in Frequency Domain.assets/topic12pic2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 <div style="text-align: center;">
-  <img src="./Average-derivative Optimized 21-Point and Improved 25-Point Forward Modeling and Full Waveform Inversion in Frequency Domain.assets/image3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Average-derivative Optimized 21-Point and Improved 25-Point Forward Modeling and Full Waveform Inversion in Frequency Domain.assets/topic12pic3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 <div style="text-align: center;">
-  <img src="./Average-derivative Optimized 21-Point and Improved 25-Point Forward Modeling and Full Waveform Inversion in Frequency Domain.assets/image4.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Average-derivative Optimized 21-Point and Improved 25-Point Forward Modeling and Full Waveform Inversion in Frequency Domain.assets/topic12pic4.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 
