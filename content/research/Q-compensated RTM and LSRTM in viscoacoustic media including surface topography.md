@@ -61,7 +61,7 @@ projects:
  <font color=black> ● Q least-squares reverse time migration based on the first-orderviscoacoustic quasidifferential equations</font>
 
 <div style="text-align: center;">
-  <img src="./Q-compensated RTM and LSRTM in viscoacoustic media including surface topography.assets/topic5.jpg" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Q-compensated RTM and LSRTM in viscoacoustic media including surface topography.assets/topic5.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 
