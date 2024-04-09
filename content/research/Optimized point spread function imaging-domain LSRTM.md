@@ -61,13 +61,13 @@ projects:
  <font color=black> ● To accurately calculate the inverse of the Hessian matrix, solve the PSF sparsity selection problem, and eliminate migration noise, we propose a velocity-adaptive irregular PSF deconvolution imaging using a Gaussian smoothing X-shaped denoising diffusion filtering operator. The velocity-adaptive irregular grid selection strategy allows for adaptive selection of the grid size based on the velocity of the different layers, ensuring maximum imaging accuracy and avoiding the risk of interference among PSFs. The Gaussian smoothing X-shaped denoising diffusion filtering operator eliminates migration noise and also prevents the introduction of deconvolution noise.</font>
 
 <div style="text-align: center;">
-  <img src="./Optimized point spread function imaging-domain LSRTM.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Optimized point spread function imaging-domain LSRTM.assets/topic15pic1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 <div style="text-align: center;">
-  <img src="./Optimized point spread function imaging-domain LSRTM.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Optimized point spread function imaging-domain LSRTM.assets/topic15pic2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 <div style="text-align: center;">
-  <img src="./Optimized point spread function imaging-domain LSRTM.assets/image3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Optimized point spread function imaging-domain LSRTM.assets/topic15pic3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 
