@@ -63,11 +63,11 @@ projects:
  <font color=black> ● Acoustic-elastic coupled least-squares reverse time migration in marine environment with rugged seabed interface</font>
 
 <div style="text-align: center;">
-  <img src="./Acoustic-elasticviscoelastic forward modeling, RTM, LSRTM and FWI.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Acoustic-elasticviscoelastic forward modeling, RTM, LSRTM and FWI.assets/topic6pic1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="text-align: center;">
-  <img src="./Acoustic-elasticviscoelastic forward modeling, RTM, LSRTM and FWI.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Acoustic-elasticviscoelastic forward modeling, RTM, LSRTM and FWI.assets/topic6pic2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 
