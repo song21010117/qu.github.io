@@ -60,15 +60,15 @@ projects:
  <font color=black> ● We have proposed an elastic LSRTM with density variations method based on wave modes separation to reduce these crosstalk artefacts by using P- and S-wave decoupled elastic velocity–stress equations to derive demigration equations and gradient formulae with respect to Vp, Vs and ρ.</font>
 
 <div style="text-align: center;">
-  <img src="./Elastic least-squares reverse time migration with velocities and density perturbation.assets/image1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Elastic least-squares reverse time migration with velocities and density perturbation.assets/topic8pic1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="text-align: center;">
-  <img src="./Elastic least-squares reverse time migration with velocities and density perturbation.assets/image2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Elastic least-squares reverse time migration with velocities and density perturbation.assets/topic8pic2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="text-align: center;">
-  <img src="./Elastic least-squares reverse time migration with velocities and density perturbation.assets/image3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Elastic least-squares reverse time migration with velocities and density perturbation.assets/topic8pic3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 
