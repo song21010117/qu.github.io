@@ -30,7 +30,7 @@ design:
 <br />
 
 <div style="display: flex; justify-content: center;">
-    <img src="content.assets/pashan.jpg.jpg" alt="image" />
+    <img src="content.assets/pashan.jpg" alt="image" />
 </div>
 <br />
 
