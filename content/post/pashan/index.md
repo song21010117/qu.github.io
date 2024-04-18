@@ -2,7 +2,7 @@
 # Files in this folder represent a Widget Page
 type: widget_page
 
-title: "课题组组织羽毛球活动"
+title: "课题组组织春季爬山"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -10,10 +10,10 @@ title: "课题组组织羽毛球活动"
 authors:
 - Yingming Qu
 
-date: "2023-06-19"
+date: "2020-04-18"
 
 # Summary. An optional shortened abstract.
-summary: 课题组组织羽毛球活动欢送毕业生
+summary: 课题组组织春季爬山强身健体
 
 tags: [News]
 
