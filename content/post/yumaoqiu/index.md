@@ -2,7 +2,7 @@
 # Files in this folder represent a Widget Page
 type: widget_page
 
-title: "课题组学生与勘查2301班交流分享"
+title: "课题组组织羽毛球活动"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,7 +13,7 @@ authors:
 date: "2024-04-061"
 
 # Summary. An optional shortened abstract.
-summary: 课题组学生与勘查2301班交流分享
+summary: 课题组组织羽毛球活动欢送毕业生
 
 tags: [News]
 
