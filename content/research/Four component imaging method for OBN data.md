@@ -61,15 +61,15 @@ projects:
  <font color=black> ● Ocean bottom dual-sensor Q-compensated elastic least-squares reverse time migration based on acoustic and separated-viscoelastic coupling equations</font>
 
 <div style="text-align: center;">
-  <img src="./Four component imaging method for OBN data.assets/topic7pic1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Four component imaging method for OBN data.assets/图片1.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="text-align: center;">
-  <img src="./Four component imaging method for OBN data.assets/topic7pic2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Four component imaging method for OBN data.assets/图片2.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="text-align: center;">
-  <img src="./Four component imaging method for OBN data.assets/topic7pic3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
+  <img src="./Four component imaging method for OBN data.assets/图片3.png" alt="Image Alt Text" style="max-width: 100%; height: auto;">
 </div>
 
 
