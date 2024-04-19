@@ -10,7 +10,7 @@ title: "课题组组织踢足球活动"
 authors:
 - Yingming Qu
 
-date: "2023-09-19"
+date: "2022-09-19"
 
 # Summary. An optional shortened abstract.
 summary: 课题组组织羽毛球活动强身健体
