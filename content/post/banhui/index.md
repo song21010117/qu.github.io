@@ -10,7 +10,7 @@ title: "课题组学生与勘查2301班交流分享"
 authors:
 - Yingming Qu
 
-date: "2024-04-061"
+date: "2024-04-01"
 
 # Summary. An optional shortened abstract.
 summary: 课题组学生与勘查2301班交流分享
