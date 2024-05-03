@@ -13,7 +13,7 @@ authors:
 date: "2022-09-19"
 
 # Summary. An optional shortened abstract.
-summary: 课题组组织羽毛球活动强身健体
+summary: 课题组组织踢足球活动强身健体
 
 tags: [News]
 
